@@ -64,6 +64,7 @@ An ETL pipeline was built to automate the process of extracting data from the so
 
 # 6. PostgreSQL Usage
 PostgreSQL was utilized for managing large datasets, running complex SQL queries, and storing results for further analysis. Key PostgreSQL actions included:
+
     •	Data Aggregation: Using SQL queries to aggregate data by city, branch, and product category for analysis. 
     •	Customer Segmentation: Extracted customer segments based on payment preferences and spending behavior. 
     •	Performance Analysis: Analyzed sales trends, peak hours, and product categories contributing to sales. 
