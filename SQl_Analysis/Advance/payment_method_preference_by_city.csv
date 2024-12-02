@@ -1,0 +1,99 @@
+city,payment_method,usage_count
+Abilene,Ewallet,50
+Alamo,Ewallet,47
+Alice,Ewallet,38
+Allen,Ewallet,49
+Amarillo,Ewallet,28
+Angleton,Ewallet,42
+Arlington,Ewallet,52
+Austin,Ewallet,44
+Baytown,Ewallet,58
+Bedford,Ewallet,44
+Big Spring,Ewallet,48
+Brownsville,Ewallet,46
+Brownwood,Ewallet,48
+Bryan,Ewallet,36
+Burleson,Ewallet,36
+Canyon,Ewallet,42
+Carrollton,Ewallet,50
+Cedar Park,Ewallet,44
+Cleburne,Ewallet,55
+College Station,Ewallet,37
+Conroe,Ewallet,55
+Coppell,Ewallet,52
+Corpus Christi,Ewallet,39
+Dallas,Ewallet,37
+Del Rio,Ewallet,51
+Denton,Ewallet,45
+DeSoto,Ewallet,48
+Eagle Pass,Ewallet,50
+Edinburg,Ewallet,45
+El Paso,Ewallet,50
+Euless,Ewallet,43
+Farmers Branch,Ewallet,46
+Flower Mound,Ewallet,57
+Fort Worth,Ewallet,56
+Friendswood,Ewallet,43
+Frisco,Ewallet,46
+Galveston,Ewallet,53
+Garland,Ewallet,52
+Georgetown,Ewallet,56
+Grand Prairie,Ewallet,57
+Grapevine,Ewallet,42
+Haltom City,Ewallet,39
+Harlingen,Ewallet,44
+Houston,Ewallet,45
+Huntsville,Ewallet,51
+Hurst,Ewallet,42
+Irving,Ewallet,44
+Kerrville,Ewallet,57
+Killeen,Ewallet,49
+La Porte,Ewallet,46
+Lake Jackson,Ewallet,37
+Lancaster,Ewallet,36
+Laredo,Ewallet,47
+League City,Ewallet,44
+Lewisville,Ewallet,34
+Little Elm,Ewallet,50
+Longview,Ewallet,41
+Lubbock,Ewallet,39
+Lufkin,Ewallet,46
+Mansfield,Ewallet,50
+McAllen,Ewallet,42
+McKinney,Ewallet,46
+Mesquite,Ewallet,46
+Midland,Ewallet,39
+Mineral Wells,Ewallet,44
+Mission,Ewallet,59
+Missouri City,Credit card,64
+Nacogdoches,Ewallet,51
+New Braunfels,Ewallet,38
+North Richland Hills,Ewallet,45
+Odessa,Ewallet,47
+Pasadena,Ewallet,42
+Pearland,Ewallet,39
+Pflugerville,Ewallet,50
+Pharr,Ewallet,48
+Plano,Credit card,139
+Port Arthur,Credit card,145
+Richardson,Credit card,120
+Rockwall,Credit card,118
+Rosenberg,Credit card,112
+Round Rock,Credit card,113
+Rowlett,Credit card,99
+San Angelo,Credit card,97
+San Antonio,Credit card,115
+San Marcos,Credit card,115
+Schertz,Credit card,125
+Seguin,Credit card,104
+Sherman,Credit card,106
+Southlake,Credit card,104
+Sugar Land,Credit card,111
+Temple,Credit card,117
+Texas City,Credit card,102
+Tyler,Credit card,107
+Victoria,Ewallet,108
+Waco,Credit card,88
+Waxahachie,Credit card,239
+Weatherford,Credit card,83
+Weslaco,Cash,226

@@ -1,0 +1,514 @@
+city,category,category_sales,total_city_sales,sales_contribution_percentage
+Abilene,Fashion accessories,4806.21,9377.82,0.51
+Abilene,Home and lifestyle,3462.2,9377.82,0.37
+Abilene,Food and beverages,601.1800000000001,9377.82,0.06
+Abilene,Electronic accessories,465.98999999999995,9377.82,0.05
+Abilene,Health and beauty,42.24,9377.82,0.00
+Alamo,Home and lifestyle,3505.86,7531.35,0.47
+Alamo,Fashion accessories,2470.09,7531.35,0.33
+Alamo,Sports and travel,789.78,7531.35,0.10
+Alamo,Health and beauty,426.05,7531.35,0.06
+Alamo,Food and beverages,339.57,7531.35,0.05
+Alice,Home and lifestyle,3168.02,7376.91,0.43
+Alice,Fashion accessories,2468,7376.91,0.33
+Alice,Electronic accessories,657.16,7376.91,0.09
+Alice,Food and beverages,617.48,7376.91,0.08
+Alice,Sports and travel,466.24999999999994,7376.91,0.06
+Allen,Fashion accessories,3674,7688.5,0.48
+Allen,Home and lifestyle,2356.6,7688.5,0.31
+Allen,Health and beauty,813,7688.5,0.11
+Allen,Sports and travel,479.58000000000004,7688.5,0.06
+Allen,Food and beverages,249.95999999999998,7688.5,0.03
+Allen,Electronic accessories,115.36,7688.5,0.02
+Amarillo,Fashion accessories,2636.48,6777.46,0.39
+Amarillo,Home and lifestyle,2061.9300000000003,6777.46,0.30
+Amarillo,Electronic accessories,1200.35,6777.46,0.18
+Amarillo,Health and beauty,878.7,6777.46,0.13
+Angleton,Home and lifestyle,3487.52,8399.01,0.42
+Angleton,Fashion accessories,2675.56,8399.01,0.32
+Angleton,Sports and travel,848.01,8399.01,0.10
+Angleton,Electronic accessories,553.35,8399.01,0.07
+Angleton,Food and beverages,489.03,8399.01,0.06
+Angleton,Health and beauty,345.54,8399.01,0.04
+Arlington,Fashion accessories,3631.74,8704.41,0.42
+Arlington,Home and lifestyle,3532.91,8704.41,0.41
+Arlington,Food and beverages,1081.6000000000001,8704.41,0.12
+Arlington,Electronic accessories,291.23,8704.41,0.03
+Arlington,Sports and travel,166.92999999999998,8704.41,0.02
+Austin,Fashion accessories,3621.7200000000003,7565.65,0.48
+Austin,Home and lifestyle,2954.12,7565.65,0.39
+Austin,Electronic accessories,609.56,7565.65,0.08
+Austin,Health and beauty,222,7565.65,0.03
+Austin,Food and beverages,158.25,7565.65,0.02
+Baytown,Fashion accessories,5954.77,10777.39,0.55
+Baytown,Home and lifestyle,2718,10777.39,0.25
+Baytown,Sports and travel,1278.8200000000002,10777.39,0.12
+Baytown,Health and beauty,825.8,10777.39,0.08
+Bedford,Fashion accessories,3057.99,8379.49,0.36
+Bedford,Home and lifestyle,2155,8379.49,0.26
+Bedford,Health and beauty,2042.92,8379.49,0.24
+Bedford,Electronic accessories,732.48,8379.49,0.09
+Bedford,Food and beverages,391.1,8379.49,0.05
+Big Spring,Fashion accessories,4409.219999999999,13497.65,0.33
+Big Spring,Home and lifestyle,4369.32,13497.65,0.32
+Big Spring,Health and beauty,2322.6800000000003,13497.65,0.17
+Big Spring,Sports and travel,1273.46,13497.65,0.09
+Big Spring,Electronic accessories,1122.97,13497.65,0.08
+Brownsville,Home and lifestyle,3594.4700000000003,8521.41,0.42
+Brownsville,Fashion accessories,3445.16,8521.41,0.40
+Brownsville,Sports and travel,741.25,8521.41,0.09
+Brownsville,Electronic accessories,615.11,8521.41,0.07
+Brownsville,Health and beauty,125.42,8521.41,0.01
+Brownwood,Home and lifestyle,3841,9562.44,0.40
+Brownwood,Fashion accessories,2931,9562.44,0.31
+Brownwood,Food and beverages,1641.3600000000001,9562.44,0.17
+Brownwood,Sports and travel,1149.08,9562.44,0.12
+Bryan,Home and lifestyle,3907.55,11139.71,0.35
+Bryan,Fashion accessories,2734.5,11139.71,0.25
+Bryan,Food and beverages,2485.91,11139.71,0.22
+Bryan,Electronic accessories,760.01,11139.71,0.07
+Bryan,Health and beauty,756.96,11139.71,0.07
+Bryan,Sports and travel,494.78,11139.71,0.04
+Burleson,Fashion accessories,3008,7743.219999999999,0.39
+Burleson,Home and lifestyle,2586,7743.219999999999,0.33
+Burleson,Sports and travel,1595.8799999999999,7743.219999999999,0.21
+Burleson,Food and beverages,318.05,7743.219999999999,0.04
+Burleson,Electronic accessories,148.24,7743.219999999999,0.02
+Burleson,Health and beauty,87.05,7743.219999999999,0.01
+Canyon,Home and lifestyle,3656.6,8254.34,0.44
+Canyon,Fashion accessories,2272.64,8254.34,0.28
+Canyon,Health and beauty,1366.71,8254.34,0.17
+Canyon,Sports and travel,497.41,8254.34,0.06
+Canyon,Electronic accessories,460.98,8254.34,0.06
+Carrollton,Home and lifestyle,4032.63,7774.1,0.52
+Carrollton,Fashion accessories,3384.6,7774.1,0.44
+Carrollton,Health and beauty,274.48,7774.1,0.04
+Carrollton,Sports and travel,50.62,7774.1,0.01
+Carrollton,Electronic accessories,31.77,7774.1,0.00
+Cedar Park,Home and lifestyle,4907.08,10346.11,0.47
+Cedar Park,Fashion accessories,3174.2799999999997,10346.11,0.31
+Cedar Park,Food and beverages,682.19,10346.11,0.07
+Cedar Park,Health and beauty,595.14,10346.11,0.06
+Cedar Park,Electronic accessories,474.24,10346.11,0.05
+Cedar Park,Sports and travel,513.18,10346.11,0.05
+Cleburne,Fashion accessories,4441.76,11780.27,0.38
+Cleburne,Home and lifestyle,2901.02,11780.27,0.25
+Cleburne,Electronic accessories,2114.41,11780.27,0.18
+Cleburne,Health and beauty,1461.33,11780.27,0.12
+Cleburne,Sports and travel,861.75,11780.27,0.07
+College Station,Home and lifestyle,3352.43,7453.09,0.45
+College Station,Fashion accessories,2965.7200000000003,7453.09,0.40
+College Station,Electronic accessories,697.01,7453.09,0.09
+College Station,Health and beauty,323.2,7453.09,0.04
+College Station,Food and beverages,114.72999999999999,7453.09,0.02
+Conroe,Fashion accessories,4299,8657.46,0.50
+Conroe,Home and lifestyle,2476,8657.46,0.29
+Conroe,Food and beverages,888.47,8657.46,0.10
+Conroe,Electronic accessories,631.84,8657.46,0.07
+Conroe,Health and beauty,207.15,8657.46,0.02
+Conroe,Sports and travel,155,8657.46,0.02
+Coppell,Fashion accessories,3695.39,6926.9400000000005,0.53
+Coppell,Home and lifestyle,1905.22,6926.9400000000005,0.28
+Coppell,Electronic accessories,760.53,6926.9400000000005,0.11
+Coppell,Health and beauty,526.68,6926.9400000000005,0.08
+Coppell,Sports and travel,39.12,6926.9400000000005,0.01
+Corpus Christi,Home and lifestyle,5774.16,9732.93,0.59
+Corpus Christi,Fashion accessories,2102,9732.93,0.22
+Corpus Christi,Health and beauty,983.8399999999999,9732.93,0.10
+Corpus Christi,Sports and travel,562.3199999999999,9732.93,0.06
+Corpus Christi,Food and beverages,257.39000000000004,9732.93,0.03
+Corpus Christi,Electronic accessories,53.22,9732.93,0.01
+Dallas,Home and lifestyle,3108.09,7734.12,0.40
+Dallas,Fashion accessories,3008.5,7734.12,0.39
+Dallas,Electronic accessories,1076.44,7734.12,0.14
+Dallas,Food and beverages,287.73,7734.12,0.04
+Dallas,Sports and travel,253.36,7734.12,0.03
+Del Rio,Home and lifestyle,4652.72,10504.71,0.44
+Del Rio,Fashion accessories,4098.18,10504.71,0.39
+Del Rio,Food and beverages,798.8,10504.71,0.08
+Del Rio,Sports and travel,742.56,10504.71,0.07
+Del Rio,Health and beauty,212.45000000000002,10504.71,0.02
+Denton,Fashion accessories,3846.84,9125.39,0.42
+Denton,Home and lifestyle,3116,9125.39,0.34
+Denton,Electronic accessories,1004.94,9125.39,0.11
+Denton,Food and beverages,511.42,9125.39,0.06
+Denton,Sports and travel,461.78,9125.39,0.05
+Denton,Health and beauty,184.41000000000003,9125.39,0.02
+DeSoto,Home and lifestyle,4247.67,8802.73,0.48
+DeSoto,Fashion accessories,3876.46,8802.73,0.44
+DeSoto,Health and beauty,334.86,8802.73,0.04
+DeSoto,Sports and travel,197.96,8802.73,0.02
+DeSoto,Food and beverages,145.78,8802.73,0.02
+Eagle Pass,Fashion accessories,5072.7,11256.17,0.45
+Eagle Pass,Home and lifestyle,4758.42,11256.17,0.42
+Eagle Pass,Food and beverages,991.8599999999999,11256.17,0.09
+Eagle Pass,Health and beauty,193.16,11256.17,0.02
+Eagle Pass,Sports and travel,93.38,11256.17,0.01
+Eagle Pass,Electronic accessories,146.64999999999998,11256.17,0.01
+Edinburg,Fashion accessories,3390.5,7687.74,0.44
+Edinburg,Home and lifestyle,3123,7687.74,0.41
+Edinburg,Sports and travel,666.1800000000001,7687.74,0.09
+Edinburg,Electronic accessories,490.31,7687.74,0.06
+Edinburg,Health and beauty,17.75,7687.74,0.00
+El Paso,Home and lifestyle,3499.9,7961.46,0.44
+El Paso,Fashion accessories,3456.9,7961.46,0.43
+El Paso,Sports and travel,724.04,7961.46,0.09
+El Paso,Food and beverages,280.62,7961.46,0.04
+Euless,Fashion accessories,5113.72,11248.739999999998,0.45
+Euless,Home and lifestyle,2319.91,11248.739999999998,0.21
+Euless,Food and beverages,1974.52,11248.739999999998,0.18
+Euless,Sports and travel,1524.59,11248.739999999998,0.14
+Euless,Health and beauty,178.4,11248.739999999998,0.02
+Euless,Electronic accessories,137.6,11248.739999999998,0.01
+Farmers Branch,Fashion accessories,4122.36,9953.53,0.41
+Farmers Branch,Home and lifestyle,3737.4,9953.53,0.38
+Farmers Branch,Electronic accessories,1577.1100000000001,9953.53,0.16
+Farmers Branch,Food and beverages,516.66,9953.53,0.05
+Flower Mound,Home and lifestyle,4181.91,9915.05,0.42
+Flower Mound,Fashion accessories,4057.27,9915.05,0.41
+Flower Mound,Sports and travel,551.44,9915.05,0.06
+Flower Mound,Health and beauty,349.44,9915.05,0.04
+Flower Mound,Food and beverages,356.95,9915.05,0.04
+Flower Mound,Electronic accessories,418.04,9915.05,0.04
+Fort Worth,Home and lifestyle,4929.12,11654.64,0.42
+Fort Worth,Fashion accessories,3663.88,11654.64,0.31
+Fort Worth,Electronic accessories,1663.58,11654.64,0.14
+Fort Worth,Health and beauty,847.86,11654.64,0.07
+Fort Worth,Food and beverages,550.1999999999999,11654.64,0.05
+Friendswood,Fashion accessories,3150.7799999999997,8188.969999999999,0.38
+Friendswood,Home and lifestyle,2458,8188.969999999999,0.30
+Friendswood,Food and beverages,1476.2399999999998,8188.969999999999,0.18
+Friendswood,Health and beauty,745.0600000000001,8188.969999999999,0.09
+Friendswood,Electronic accessories,283.92,8188.969999999999,0.03
+Friendswood,Sports and travel,74.97,8188.969999999999,0.01
+Frisco,Home and lifestyle,2899,7233.95,0.40
+Frisco,Fashion accessories,2440,7233.95,0.34
+Frisco,Sports and travel,1628.19,7233.95,0.23
+Frisco,Electronic accessories,266.76,7233.95,0.04
+Galveston,Home and lifestyle,4859.52,12242.22,0.40
+Galveston,Fashion accessories,4703.64,12242.22,0.38
+Galveston,Health and beauty,989.74,12242.22,0.08
+Galveston,Electronic accessories,715.88,12242.22,0.06
+Galveston,Sports and travel,448.56,12242.22,0.04
+Galveston,Food and beverages,524.88,12242.22,0.04
+Garland,Home and lifestyle,4422,11359.39,0.39
+Garland,Fashion accessories,3713.56,11359.39,0.33
+Garland,Food and beverages,2114.44,11359.39,0.19
+Garland,Health and beauty,1109.3899999999999,11359.39,0.10
+Georgetown,Home and lifestyle,4965.200000000001,10476.08,0.47
+Georgetown,Fashion accessories,3699.58,10476.08,0.35
+Georgetown,Food and beverages,1015.3299999999999,10476.08,0.10
+Georgetown,Electronic accessories,630.42,10476.08,0.06
+Georgetown,Sports and travel,138.48,10476.08,0.01
+Georgetown,Health and beauty,27.07,10476.08,0.00
+Grand Prairie,Fashion accessories,5125.45,10122.92,0.51
+Grand Prairie,Home and lifestyle,3602.2,10122.92,0.36
+Grand Prairie,Electronic accessories,823.4000000000001,10122.92,0.08
+Grand Prairie,Sports and travel,319.06,10122.92,0.03
+Grand Prairie,Food and beverages,252.81,10122.92,0.02
+Grapevine,Home and lifestyle,7356.22,12200.46,0.60
+Grapevine,Fashion accessories,3909.36,12200.46,0.32
+Grapevine,Food and beverages,505.5799999999999,12200.46,0.04
+Grapevine,Electronic accessories,328,12200.46,0.03
+Grapevine,Health and beauty,72.52,12200.46,0.01
+Grapevine,Sports and travel,28.78,12200.46,0.00
+Haltom City,Home and lifestyle,5091.04,10232.41,0.50
+Haltom City,Fashion accessories,3664,10232.41,0.36
+Haltom City,Electronic accessories,959.31,10232.41,0.09
+Haltom City,Food and beverages,343.74,10232.41,0.03
+Haltom City,Sports and travel,174.32,10232.41,0.02
+Harlingen,Fashion accessories,3969.1800000000003,8130.8,0.49
+Harlingen,Home and lifestyle,3520.76,8130.8,0.43
+Harlingen,Health and beauty,322.58,8130.8,0.04
+Harlingen,Sports and travel,241.87999999999997,8130.8,0.03
+Harlingen,Electronic accessories,76.39999999999999,8130.8,0.01
+Houston,Home and lifestyle,4819.08,10225.68,0.47
+Houston,Fashion accessories,2920.6800000000003,10225.68,0.29
+Houston,Sports and travel,1516.29,10225.68,0.15
+Houston,Electronic accessories,969.6300000000001,10225.68,0.09
+Huntsville,Fashion accessories,4013.6099999999997,8163.209999999999,0.49
+Huntsville,Home and lifestyle,3111,8163.209999999999,0.38
+Huntsville,Electronic accessories,558.6999999999999,8163.209999999999,0.07
+Huntsville,Food and beverages,479.9,8163.209999999999,0.06
+Hurst,Home and lifestyle,3628.48,9928.01,0.37
+Hurst,Fashion accessories,2814.1,9928.01,0.28
+Hurst,Health and beauty,1348.6299999999999,9928.01,0.14
+Hurst,Electronic accessories,848.72,9928.01,0.09
+Hurst,Food and beverages,755.76,9928.01,0.08
+Hurst,Sports and travel,532.3199999999999,9928.01,0.05
+Irving,Fashion accessories,2602.58,6237.11,0.42
+Irving,Home and lifestyle,2399,6237.11,0.38
+Irving,Sports and travel,604.1700000000001,6237.11,0.10
+Irving,Health and beauty,448.56,6237.11,0.07
+Irving,Electronic accessories,182.8,6237.11,0.03
+Kerrville,Fashion accessories,3640.69,9439.27,0.39
+Kerrville,Home and lifestyle,3403.2799999999997,9439.27,0.36
+Kerrville,Sports and travel,1799.2,9439.27,0.19
+Kerrville,Health and beauty,409.83000000000004,9439.27,0.04
+Kerrville,Food and beverages,146.79,9439.27,0.02
+Kerrville,Electronic accessories,39.48,9439.27,0.00
+Killeen,Fashion accessories,3832.5,10832.759999999998,0.35
+Killeen,Home and lifestyle,3770.83,10832.759999999998,0.35
+Killeen,Sports and travel,1297.26,10832.759999999998,0.12
+Killeen,Electronic accessories,1121.65,10832.759999999998,0.10
+Killeen,Food and beverages,536.74,10832.759999999998,0.05
+Killeen,Health and beauty,273.78,10832.759999999998,0.03
+La Porte,Fashion accessories,4212.46,9027.47,0.47
+La Porte,Home and lifestyle,3120.76,9027.47,0.35
+La Porte,Sports and travel,1416.17,9027.47,0.16
+La Porte,Health and beauty,278.08000000000004,9027.47,0.03
+Lake Jackson,Home and lifestyle,2026.42,5038.9,0.40
+Lake Jackson,Fashion accessories,1979,5038.9,0.39
+Lake Jackson,Sports and travel,615.1800000000001,5038.9,0.12
+Lake Jackson,Health and beauty,418.29999999999995,5038.9,0.08
+Lancaster,Fashion accessories,3726.84,8193.35,0.45
+Lancaster,Home and lifestyle,2866.19,8193.35,0.35
+Lancaster,Food and beverages,718.28,8193.35,0.09
+Lancaster,Electronic accessories,637.14,8193.35,0.08
+Lancaster,Sports and travel,244.89999999999998,8193.35,0.03
+Laredo,Fashion accessories,3768.4,8235.619999999999,0.46
+Laredo,Home and lifestyle,2949.86,8235.619999999999,0.36
+Laredo,Food and beverages,734.2199999999999,8235.619999999999,0.09
+Laredo,Electronic accessories,587.6,8235.619999999999,0.07
+Laredo,Health and beauty,195.54000000000002,8235.619999999999,0.02
+League City,Home and lifestyle,3673,8688.85,0.42
+League City,Fashion accessories,2333.73,8688.85,0.27
+League City,Sports and travel,1164.06,8688.85,0.13
+League City,Electronic accessories,723.24,8688.85,0.08
+League City,Health and beauty,629.8600000000001,8688.85,0.07
+League City,Food and beverages,164.96,8688.85,0.02
+Lewisville,Fashion accessories,2274.41,5568.84,0.41
+Lewisville,Home and lifestyle,1623.52,5568.84,0.29
+Lewisville,Health and beauty,1063.85,5568.84,0.19
+Lewisville,Electronic accessories,432.2,5568.84,0.08
+Lewisville,Sports and travel,126.25,5568.84,0.02
+Lewisville,Food and beverages,48.61,5568.84,0.01
+Little Elm,Fashion accessories,3990.36,9142.55,0.44
+Little Elm,Home and lifestyle,3706,9142.55,0.41
+Little Elm,Electronic accessories,839.6500000000001,9142.55,0.09
+Little Elm,Food and beverages,525.82,9142.55,0.06
+Little Elm,Sports and travel,80.72,9142.55,0.01
+Longview,Home and lifestyle,3242.7,6769.33,0.48
+Longview,Fashion accessories,1404,6769.33,0.21
+Longview,Food and beverages,951.1800000000001,6769.33,0.14
+Longview,Health and beauty,601.09,6769.33,0.09
+Longview,Electronic accessories,570.3600000000001,6769.33,0.08
+Lubbock,Home and lifestyle,3210.4,7714.540000000001,0.42
+Lubbock,Fashion accessories,2811,7714.540000000001,0.36
+Lubbock,Electronic accessories,742.2,7714.540000000001,0.10
+Lubbock,Health and beauty,499.9,7714.540000000001,0.06
+Lubbock,Food and beverages,320.53,7714.540000000001,0.04
+Lubbock,Sports and travel,130.51,7714.540000000001,0.02
+Lufkin,Fashion accessories,3415.2799999999997,7719.1900000000005,0.44
+Lufkin,Home and lifestyle,2362.52,7719.1900000000005,0.31
+Lufkin,Health and beauty,1011.96,7719.1900000000005,0.13
+Lufkin,Sports and travel,551.8100000000001,7719.1900000000005,0.07
+Lufkin,Food and beverages,278.78,7719.1900000000005,0.04
+Lufkin,Electronic accessories,98.84,7719.1900000000005,0.01
+Mansfield,Home and lifestyle,3864.85,10936.64,0.35
+Mansfield,Fashion accessories,3734,10936.64,0.34
+Mansfield,Food and beverages,1343.94,10936.64,0.12
+Mansfield,Health and beauty,1223.92,10936.64,0.11
+Mansfield,Electronic accessories,769.93,10936.64,0.07
+McAllen,Fashion accessories,3711.35,8050.11,0.46
+McAllen,Home and lifestyle,3056.7200000000003,8050.11,0.38
+McAllen,Sports and travel,799.15,8050.11,0.10
+McAllen,Food and beverages,358.24,8050.11,0.04
+McAllen,Health and beauty,124.64999999999999,8050.11,0.02
+McKinney,Fashion accessories,5824.2,13887.71,0.42
+McKinney,Home and lifestyle,5622.42,13887.71,0.40
+McKinney,Sports and travel,954.4,13887.71,0.07
+McKinney,Food and beverages,655.92,13887.71,0.05
+McKinney,Electronic accessories,403,13887.71,0.03
+McKinney,Health and beauty,427.77,13887.71,0.03
+Mesquite,Fashion accessories,4605.92,10400.92,0.44
+Mesquite,Home and lifestyle,3702,10400.92,0.36
+Mesquite,Electronic accessories,829.9799999999999,10400.92,0.08
+Mesquite,Health and beauty,486.3,10400.92,0.05
+Mesquite,Food and beverages,397.68,10400.92,0.04
+Mesquite,Sports and travel,379.04,10400.92,0.04
+Midland,Fashion accessories,3920.45,9198.05,0.43
+Midland,Home and lifestyle,2572.92,9198.05,0.28
+Midland,Sports and travel,1163.8899999999999,9198.05,0.13
+Midland,Health and beauty,937.86,9198.05,0.10
+Midland,Food and beverages,332.1,9198.05,0.04
+Midland,Electronic accessories,270.83,9198.05,0.03
+Mineral Wells,Fashion accessories,3845.9700000000003,9509.93,0.40
+Mineral Wells,Home and lifestyle,3392.24,9509.93,0.36
+Mineral Wells,Sports and travel,970.4099999999999,9509.93,0.10
+Mineral Wells,Electronic accessories,667.0899999999999,9509.93,0.07
+Mineral Wells,Food and beverages,541.4399999999999,9509.93,0.06
+Mineral Wells,Health and beauty,92.78,9509.93,0.01
+Mission,Home and lifestyle,3474.2,7327.0599999999995,0.47
+Mission,Fashion accessories,3186.48,7327.0599999999995,0.43
+Mission,Food and beverages,353.28,7327.0599999999995,0.05
+Mission,Sports and travel,313.09999999999997,7327.0599999999995,0.04
+Missouri City,Fashion accessories,2919.21,7628.66,0.38
+Missouri City,Home and lifestyle,2925.7,7628.66,0.38
+Missouri City,Health and beauty,1003.39,7628.66,0.13
+Missouri City,Food and beverages,485.15,7628.66,0.06
+Missouri City,Electronic accessories,214.28,7628.66,0.03
+Missouri City,Sports and travel,80.93,7628.66,0.01
+Nacogdoches,Fashion accessories,4221.139999999999,10174.64,0.41
+Nacogdoches,Home and lifestyle,3460.8,10174.64,0.34
+Nacogdoches,Food and beverages,2072.3199999999997,10174.64,0.20
+Nacogdoches,Sports and travel,265.3,10174.64,0.03
+Nacogdoches,Electronic accessories,155.07999999999998,10174.64,0.02
+New Braunfels,Fashion accessories,3423.56,8692.42,0.39
+New Braunfels,Home and lifestyle,2887,8692.42,0.33
+New Braunfels,Sports and travel,848.9300000000001,8692.42,0.10
+New Braunfels,Health and beauty,793.28,8692.42,0.09
+New Braunfels,Food and beverages,458.31,8692.42,0.05
+New Braunfels,Electronic accessories,281.34000000000003,8692.42,0.03
+North Richland Hills,Home and lifestyle,4058.27,10960.810000000001,0.37
+North Richland Hills,Fashion accessories,3486.21,10960.810000000001,0.32
+North Richland Hills,Sports and travel,1268.7800000000002,10960.810000000001,0.12
+North Richland Hills,Food and beverages,1220.79,10960.810000000001,0.11
+North Richland Hills,Electronic accessories,926.76,10960.810000000001,0.08
+Odessa,Home and lifestyle,4010,8671.32,0.46
+Odessa,Fashion accessories,2875.98,8671.32,0.33
+Odessa,Food and beverages,874.76,8671.32,0.10
+Odessa,Electronic accessories,684.98,8671.32,0.08
+Odessa,Sports and travel,225.60000000000002,8671.32,0.03
+Pasadena,Fashion accessories,3498.56,9009.8,0.39
+Pasadena,Home and lifestyle,3459,9009.8,0.38
+Pasadena,Sports and travel,1699.3600000000001,9009.8,0.19
+Pasadena,Electronic accessories,352.88,9009.8,0.04
+Pearland,Fashion accessories,3310.6,6572.91,0.50
+Pearland,Home and lifestyle,2206.7200000000003,6572.91,0.34
+Pearland,Sports and travel,557.2,6572.91,0.08
+Pearland,Food and beverages,418.95,6572.91,0.06
+Pearland,Electronic accessories,79.44,6572.91,0.01
+Pflugerville,Fashion accessories,4663.46,11635.25,0.40
+Pflugerville,Home and lifestyle,2995.12,11635.25,0.26
+Pflugerville,Health and beauty,1557.42,11635.25,0.13
+Pflugerville,Sports and travel,1044.3600000000001,11635.25,0.09
+Pflugerville,Food and beverages,774.48,11635.25,0.07
+Pflugerville,Electronic accessories,600.41,11635.25,0.05
+Pharr,Fashion accessories,3691.5699999999997,9825.91,0.38
+Pharr,Home and lifestyle,2412.05,9825.91,0.25
+Pharr,Food and beverages,1430.5,9825.91,0.15
+Pharr,Sports and travel,893.16,9825.91,0.09
+Pharr,Health and beauty,724.23,9825.91,0.07
+Pharr,Electronic accessories,674.4000000000001,9825.91,0.07
+Plano,Home and lifestyle,11509.46,25688.34,0.45
+Plano,Fashion accessories,11339.04,25688.34,0.44
+Plano,Electronic accessories,1741.31,25688.34,0.07
+Plano,Food and beverages,766.81,25688.34,0.03
+Plano,Sports and travel,331.72,25688.34,0.01
+Port Arthur,Fashion accessories,11994.28,24524.37,0.49
+Port Arthur,Home and lifestyle,11086.56,24524.37,0.45
+Port Arthur,Electronic accessories,717,24524.37,0.03
+Port Arthur,Health and beauty,580.77,24524.37,0.02
+Port Arthur,Sports and travel,145.76,24524.37,0.01
+Richardson,Fashion accessories,11625.41,24460.6,0.48
+Richardson,Home and lifestyle,9798.619999999999,24460.6,0.40
+Richardson,Health and beauty,1363.1,24460.6,0.06
+Richardson,Food and beverages,789.9200000000001,24460.6,0.03
+Richardson,Electronic accessories,454,24460.6,0.02
+Richardson,Sports and travel,429.54999999999995,24460.6,0.02
+Rockwall,Fashion accessories,10339.21,24077.7,0.43
+Rockwall,Home and lifestyle,9292,24077.7,0.39
+Rockwall,Electronic accessories,1731.6399999999999,24077.7,0.07
+Rockwall,Sports and travel,1244.09,24077.7,0.05
+Rockwall,Food and beverages,875.56,24077.7,0.04
+Rockwall,Health and beauty,595.1999999999999,24077.7,0.02
+Rosenberg,Fashion accessories,8242,19598.92,0.42
+Rosenberg,Home and lifestyle,7231.78,19598.92,0.37
+Rosenberg,Electronic accessories,1797.99,19598.92,0.09
+Rosenberg,Food and beverages,1741.8999999999999,19598.92,0.09
+Rosenberg,Sports and travel,324.85,19598.92,0.02
+Rosenberg,Health and beauty,260.4,19598.92,0.01
+Round Rock,Home and lifestyle,11998.46,23327.34,0.51
+Round Rock,Fashion accessories,8010.66,23327.34,0.34
+Round Rock,Electronic accessories,1941.83,23327.34,0.08
+Round Rock,Health and beauty,741.51,23327.34,0.03
+Round Rock,Sports and travel,519.0999999999999,23327.34,0.02
+Round Rock,Food and beverages,115.78,23327.34,0.00
+Rowlett,Fashion accessories,8057.67,18604.37,0.43
+Rowlett,Home and lifestyle,7640,18604.37,0.41
+Rowlett,Electronic accessories,1928.54,18604.37,0.10
+Rowlett,Food and beverages,978.1600000000001,18604.37,0.05
+San Angelo,Fashion accessories,8522,18743.58,0.45
+San Angelo,Home and lifestyle,7573.16,18743.58,0.40
+San Angelo,Electronic accessories,1185.38,18743.58,0.06
+San Angelo,Food and beverages,980.22,18743.58,0.05
+San Angelo,Health and beauty,224.45999999999998,18743.58,0.01
+San Angelo,Sports and travel,258.36,18743.58,0.01
+San Antonio,Home and lifestyle,10131.29,24950.559999999998,0.41
+San Antonio,Fashion accessories,8369,24950.559999999998,0.34
+San Antonio,Electronic accessories,3738.1,24950.559999999998,0.15
+San Antonio,Health and beauty,1187.53,24950.559999999998,0.05
+San Antonio,Food and beverages,1025.18,24950.559999999998,0.04
+San Antonio,Sports and travel,499.4599999999999,24950.559999999998,0.02
+San Marcos,Fashion accessories,8639.15,22124.51,0.39
+San Marcos,Home and lifestyle,8023,22124.51,0.36
+San Marcos,Electronic accessories,2610.2,22124.51,0.12
+San Marcos,Sports and travel,1135.22,22124.51,0.05
+San Marcos,Health and beauty,955.33,22124.51,0.04
+San Marcos,Food and beverages,761.61,22124.51,0.03
+Schertz,Home and lifestyle,11370.76,23095.43,0.49
+Schertz,Fashion accessories,9705.6,23095.43,0.42
+Schertz,Electronic accessories,919,23095.43,0.04
+Schertz,Health and beauty,685.1700000000001,23095.43,0.03
+Schertz,Sports and travel,414.90000000000003,23095.43,0.02
+Seguin,Home and lifestyle,8197.68,18170.63,0.45
+Seguin,Fashion accessories,7443.82,18170.63,0.41
+Seguin,Electronic accessories,1452.07,18170.63,0.08
+Seguin,Health and beauty,801.5699999999999,18170.63,0.04
+Seguin,Food and beverages,177.36,18170.63,0.01
+Seguin,Sports and travel,98.13,18170.63,0.01
+Sherman,Fashion accessories,9397.41,19385.22,0.48
+Sherman,Home and lifestyle,7502,19385.22,0.39
+Sherman,Electronic accessories,2221.25,19385.22,0.11
+Sherman,Health and beauty,264.56,19385.22,0.01
+Southlake,Home and lifestyle,9105.11,21267.059999999998,0.43
+Southlake,Fashion accessories,8960,21267.059999999998,0.42
+Southlake,Electronic accessories,1204.3600000000001,21267.059999999998,0.06
+Southlake,Sports and travel,972.51,21267.059999999998,0.05
+Southlake,Food and beverages,1025.08,21267.059999999998,0.05
+Sugar Land,Fashion accessories,9473.279999999999,20062.239999999998,0.47
+Sugar Land,Home and lifestyle,8317.880000000001,20062.239999999998,0.41
+Sugar Land,Food and beverages,901.42,20062.239999999998,0.04
+Sugar Land,Electronic accessories,768.96,20062.239999999998,0.04
+Sugar Land,Health and beauty,476.85,20062.239999999998,0.02
+Sugar Land,Sports and travel,123.85,20062.239999999998,0.01
+Temple,Fashion accessories,11022.07,21003.989999999998,0.52
+Temple,Home and lifestyle,7496.360000000001,21003.989999999998,0.36
+Temple,Electronic accessories,1537.15,21003.989999999998,0.07
+Temple,Sports and travel,602.75,21003.989999999998,0.03
+Temple,Food and beverages,345.66,21003.989999999998,0.02
+Texas City,Home and lifestyle,8642.85,20024.809999999998,0.43
+Texas City,Fashion accessories,8305,20024.809999999998,0.41
+Texas City,Health and beauty,1538.6399999999999,20024.809999999998,0.08
+Texas City,Electronic accessories,578,20024.809999999998,0.03
+Texas City,Sports and travel,589.4300000000001,20024.809999999998,0.03
+Texas City,Food and beverages,370.89,20024.809999999998,0.02
+Tyler,Home and lifestyle,8961,18431.83,0.49
+Tyler,Fashion accessories,7910.58,18431.83,0.43
+Tyler,Electronic accessories,1560.25,18431.83,0.08
+Victoria,Home and lifestyle,8348.96,16009.029999999999,0.52
+Victoria,Fashion accessories,6320.78,16009.029999999999,0.39
+Victoria,Electronic accessories,1339.29,16009.029999999999,0.08
+Waco,Home and lifestyle,7046.67,17640.17,0.40
+Waco,Fashion accessories,6639.4,17640.17,0.38
+Waco,Electronic accessories,1597.32,17640.17,0.09
+Waco,Food and beverages,887.9399999999999,17640.17,0.05
+Waco,Health and beauty,699.64,17640.17,0.04
+Waco,Sports and travel,769.2,17640.17,0.04
+Waxahachie,Home and lifestyle,18178.760000000002,40703.33,0.45
+Waxahachie,Fashion accessories,16104.86,40703.33,0.40
+Waxahachie,Electronic accessories,4166.9,40703.33,0.10
+Waxahachie,Health and beauty,1593.07,40703.33,0.04
+Waxahachie,Sports and travel,543.94,40703.33,0.01
+Waxahachie,Food and beverages,115.80000000000001,40703.33,0.00
+Weatherford,Home and lifestyle,8757.04,18074.6,0.48
+Weatherford,Fashion accessories,7840.3,18074.6,0.43
+Weatherford,Sports and travel,745,18074.6,0.04
+Weatherford,Electronic accessories,732.26,18074.6,0.04
+Weslaco,Home and lifestyle,21473.89,46351.79,0.46
+Weslaco,Fashion accessories,18618.39,46351.79,0.40
+Weslaco,Electronic accessories,3895.0499999999997,46351.79,0.08
+Weslaco,Food and beverages,1268.7300000000002,46351.79,0.03
+Weslaco,Sports and travel,974.91,46351.79,0.02
+Weslaco,Health and beauty,120.82,46351.79,0.00

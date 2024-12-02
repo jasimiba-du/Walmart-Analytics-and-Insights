@@ -1,0 +1,297 @@
+city,category,avg_rating,rank
+Abilene,Health and beauty,9.7,1
+Abilene,Electronic accessories,7.966666666666666,2
+Abilene,Food and beverages,6.95,3
+Alamo,Health and beauty,7.949999999999999,1
+Alamo,Sports and travel,7.3,2
+Alamo,Fashion accessories,6.873076923076923,3
+Alice,Food and beverages,7.675,1
+Alice,Electronic accessories,7.3,2
+Alice,Sports and travel,6.925000000000001,3
+Allen,Fashion accessories,6.589743589743589,1
+Allen,Electronic accessories,6.4,2
+Allen,Home and lifestyle,6.2178571428571425,3
+Amarillo,Electronic accessories,6.833333333333333,1
+Amarillo,Fashion accessories,6.688461538461539,2
+Amarillo,Home and lifestyle,6.395454545454545,3
+Angleton,Food and beverages,7.7,1
+Angleton,Electronic accessories,7.55,2
+Angleton,Sports and travel,6.7,3
+Arlington,Food and beverages,7.55,1
+Arlington,Home and lifestyle,6.326666666666667,2
+Arlington,Fashion accessories,6.196969696969697,3
+Austin,Food and beverages,9.3,1
+Austin,Fashion accessories,7.16774193548387,2
+Austin,Home and lifestyle,6.788461538461538,3
+Baytown,Sports and travel,6.45,1
+Baytown,Home and lifestyle,6.363636363636363,2
+Baytown,Fashion accessories,6.120454545454546,3
+Bedford,Health and beauty,8.15,1
+Bedford,Home and lifestyle,6.76,2
+Bedford,Electronic accessories,6,3
+Big Spring,Health and beauty,7.725,1
+Big Spring,Sports and travel,7.340000000000001,2
+Big Spring,Fashion accessories,6.51875,3
+Brownsville,Sports and travel,9.1,1
+Brownsville,Health and beauty,7.300000000000001,2
+Brownsville,Electronic accessories,7.125,3
+Brownwood,Sports and travel,8.133333333333333,1
+Brownwood,Food and beverages,7.8,2
+Brownwood,Home and lifestyle,6.333333333333333,3
+Bryan,Sports and travel,7.25,1
+Bryan,Electronic accessories,7.1499999999999995,2
+Bryan,Health and beauty,6.85,3
+Burleson,Electronic accessories,9.7,1
+Burleson,Sports and travel,7.4,2
+Burleson,Fashion accessories,6.275862068965517,3
+Canyon,Health and beauty,6.900000000000001,1
+Canyon,Sports and travel,6.333333333333333,2
+Canyon,Home and lifestyle,6.25,3
+Carrollton,Electronic accessories,8.7,1
+Carrollton,Sports and travel,7.2,2
+Carrollton,Fashion accessories,6.431034482758621,3
+Cedar Park,Food and beverages,8.466666666666667,1
+Cedar Park,Sports and travel,6.75,2
+Cedar Park,Electronic accessories,6.633333333333333,3
+Cleburne,Sports and travel,7.666666666666667,1
+Cleburne,Electronic accessories,7.25,2
+Cleburne,Home and lifestyle,6.975,3
+College Station,Health and beauty,10,1
+College Station,Electronic accessories,8.45,2
+College Station,Food and beverages,7.2,3
+Conroe,Sports and travel,8,1
+Conroe,Health and beauty,7.05,2
+Conroe,Food and beverages,6.866666666666667,3
+Coppell,Sports and travel,9.6,1
+Coppell,Home and lifestyle,6.76,2
+Coppell,Fashion accessories,6.418181818181819,3
+Corpus Christi,Food and beverages,7.4,1
+Corpus Christi,Health and beauty,6.85,2
+Corpus Christi,Home and lifestyle,6.633333333333334,3
+Dallas,Food and beverages,8.25,1
+Dallas,Electronic accessories,8.125,2
+Dallas,Home and lifestyle,6.003448275862069,3
+Del Rio,Food and beverages,9,1
+Del Rio,Health and beauty,8,2
+Del Rio,Sports and travel,6.7,3
+Denton,Health and beauty,6.85,1
+Denton,Fashion accessories,6.718181818181818,2
+Denton,Home and lifestyle,6.7,3
+Denton,Sports and travel,6.7,3
+Denton,Electronic accessories,6.7,3
+DeSoto,Health and beauty,9.9,1
+DeSoto,Food and beverages,6.85,2
+DeSoto,Sports and travel,6.6,3
+Eagle Pass,Sports and travel,9.6,1
+Eagle Pass,Food and beverages,6.5,2
+Eagle Pass,Home and lifestyle,6.3578947368421055,3
+Edinburg,Health and beauty,8.6,1
+Edinburg,Electronic accessories,7.050000000000001,2
+Edinburg,Fashion accessories,6.730769230769231,3
+El Paso,Fashion accessories,6.797058823529412,1
+El Paso,Sports and travel,6.5,2
+El Paso,Food and beverages,6,3
+Euless,Food and beverages,6.766666666666667,1
+Euless,Home and lifestyle,6.6038461538461535,2
+Euless,Health and beauty,6.6,3
+Farmers Branch,Electronic accessories,6.566666666666666,1
+Farmers Branch,Home and lifestyle,6.2625,2
+Farmers Branch,Fashion accessories,6.151428571428572,3
+Flower Mound,Health and beauty,7.95,1
+Flower Mound,Electronic accessories,7.266666666666667,2
+Flower Mound,Fashion accessories,6.608823529411764,3
+Fort Worth,Health and beauty,8.366666666666667,1
+Fort Worth,Food and beverages,7.25,2
+Fort Worth,Electronic accessories,6.8,3
+Friendswood,Food and beverages,9.1,1
+Friendswood,Health and beauty,7.066666666666667,2
+Friendswood,Fashion accessories,6.315625,3
+Frisco,Electronic accessories,8.75,1
+Frisco,Home and lifestyle,6.625,2
+Frisco,Fashion accessories,6.357142857142857,3
+Galveston,Sports and travel,7.3,1
+Galveston,Home and lifestyle,6.385294117647058,2
+Galveston,Fashion accessories,6,3
+Garland,Health and beauty,7.45,1
+Garland,Food and beverages,6.871428571428571,2
+Garland,Fashion accessories,6.4,3
+Georgetown,Electronic accessories,8.325,1
+Georgetown,Food and beverages,7.333333333333333,2
+Georgetown,Fashion accessories,6.207692307692308,3
+Grand Prairie,Home and lifestyle,6.223076923076923,1
+Grand Prairie,Fashion accessories,5.877272727272728,2
+Grand Prairie,Food and beverages,5.6,3
+Grapevine,Health and beauty,7.2,1
+Grapevine,Sports and travel,7.2,1
+Grapevine,Food and beverages,6.733333333333333,3
+Haltom City,Sports and travel,9.7,1
+Haltom City,Electronic accessories,8.033333333333333,2
+Haltom City,Fashion accessories,6.3125,3
+Harlingen,Electronic accessories,9.6,1
+Harlingen,Sports and travel,8.066666666666668,2
+Harlingen,Health and beauty,6.633333333333333,3
+Houston,Electronic accessories,7.45,1
+Houston,Sports and travel,6.533333333333334,2
+Houston,Fashion accessories,6.357575757575758,3
+Huntsville,Food and beverages,8.1,1
+Huntsville,Fashion accessories,6.837837837837838,2
+Huntsville,Home and lifestyle,6.696969696969697,3
+Hurst,Food and beverages,9.1,1
+Hurst,Health and beauty,7.475,2
+Hurst,Home and lifestyle,6.573333333333333,3
+Irving,Health and beauty,7.6,1
+Irving,Electronic accessories,7.2,2
+Irving,Home and lifestyle,6.265217391304348,3
+Kerrville,Food and beverages,8.4,1
+Kerrville,Health and beauty,8.3,2
+Kerrville,Fashion accessories,6.802777777777778,3
+Killeen,Food and beverages,8.333333333333334,1
+Killeen,Health and beauty,8.25,2
+Killeen,Home and lifestyle,6.87,3
+La Porte,Sports and travel,7.166666666666667,1
+La Porte,Health and beauty,7,2
+La Porte,Fashion accessories,6.587096774193548,3
+Lake Jackson,Health and beauty,7.2,1
+Lake Jackson,Fashion accessories,6.875,2
+Lake Jackson,Sports and travel,6.4,3
+Lancaster,Sports and travel,8.1,1
+Lancaster,Electronic accessories,7.733333333333333,2
+Lancaster,Food and beverages,7.6000000000000005,3
+Laredo,Electronic accessories,9,1
+Laredo,Fashion accessories,6.94375,2
+Laredo,Food and beverages,6.550000000000001,3
+League City,Sports and travel,9.35,1
+League City,Health and beauty,8.75,2
+League City,Food and beverages,7.1,3
+Lewisville,Electronic accessories,7.566666666666666,1
+Lewisville,Fashion accessories,6.846153846153846,2
+Lewisville,Sports and travel,6.1,3
+Little Elm,Electronic accessories,6.25,1
+Little Elm,Fashion accessories,6.118181818181818,2
+Little Elm,Home and lifestyle,5.8108108108108105,3
+Longview,Food and beverages,9.025,1
+Longview,Health and beauty,8,2
+Longview,Electronic accessories,6.9,3
+Lubbock,Food and beverages,7,1
+Lubbock,Health and beauty,6.266666666666667,2
+Lubbock,Fashion accessories,6.235294117647059,3
+Lufkin,Food and beverages,8.6,1
+Lufkin,Electronic accessories,8.4,2
+Lufkin,Sports and travel,7.75,3
+Mansfield,Electronic accessories,7.75,1
+Mansfield,Health and beauty,6.8999999999999995,2
+Mansfield,Home and lifestyle,6.6866666666666665,3
+McAllen,Sports and travel,7.2,1
+McAllen,Food and beverages,6.300000000000001,2
+McAllen,Home and lifestyle,6.058620689655172,3
+McKinney,Electronic accessories,7,1
+McKinney,Health and beauty,6.95,2
+McKinney,Fashion accessories,6.279411764705882,3
+Mesquite,Health and beauty,8.8,1
+Mesquite,Electronic accessories,8.700000000000001,2
+Mesquite,Sports and travel,7.8,3
+Midland,Health and beauty,8,1
+Midland,Fashion accessories,6.431578947368421,2
+Midland,Home and lifestyle,6.369565217391305,3
+Mineral Wells,Health and beauty,9.8,1
+Mineral Wells,Electronic accessories,6.866666666666667,2
+Mineral Wells,Home and lifestyle,6.382142857142857,3
+Mission,Food and beverages,8,1
+Mission,Sports and travel,7,2
+Mission,Fashion accessories,6.609375,3
+Missouri City,Food and beverages,9.3,1
+Missouri City,Sports and travel,9,2
+Missouri City,Health and beauty,7.866666666666667,3
+Nacogdoches,Electronic accessories,7.2,1
+Nacogdoches,Sports and travel,6.75,2
+Nacogdoches,Home and lifestyle,6.448275862068965,3
+New Braunfels,Sports and travel,8.899999999999999,1
+New Braunfels,Food and beverages,6.6,2
+New Braunfels,Home and lifestyle,6.357142857142857,3
+North Richland Hills,Sports and travel,7.666666666666667,1
+North Richland Hills,Electronic accessories,6.6,2
+North Richland Hills,Home and lifestyle,6.344117647058823,3
+Odessa,Food and beverages,8,1
+Odessa,Fashion accessories,6.333333333333333,2
+Odessa,Home and lifestyle,6.190476190476191,3
+Pasadena,Electronic accessories,8.4,1
+Pasadena,Home and lifestyle,6.993939393939394,2
+Pasadena,Sports and travel,6.875,3
+Pearland,Home and lifestyle,6.661904761904762,1
+Pearland,Food and beverages,6.4,2
+Pearland,Fashion accessories,6.0375,3
+Pflugerville,Electronic accessories,7.9,1
+Pflugerville,Sports and travel,6.933333333333334,2
+Pflugerville,Home and lifestyle,6.828571428571428,3
+Pharr,Health and beauty,9.2,1
+Pharr,Sports and travel,9,2
+Pharr,Food and beverages,7.325000000000001,3
+Plano,Sports and travel,9.6,1
+Plano,Food and beverages,7,2
+Plano,Electronic accessories,6,3
+Port Arthur,Health and beauty,6.300000000000001,1
+Port Arthur,Sports and travel,6.1,2
+Port Arthur,Fashion accessories,5.442735042735042,3
+Richardson,Sports and travel,8.6,1
+Richardson,Health and beauty,7.466666666666666,2
+Richardson,Home and lifestyle,5.427619047619047,3
+Rockwall,Sports and travel,7.76,1
+Rockwall,Food and beverages,5.566666666666666,2
+Rockwall,Fashion accessories,5.4557692307692305,3
+Rosenberg,Health and beauty,9.9,1
+Rosenberg,Food and beverages,7.2,2
+Rosenberg,Sports and travel,6.5,3
+Round Rock,Food and beverages,8.9,1
+Round Rock,Sports and travel,8.2,2
+Round Rock,Health and beauty,6.6499999999999995,3
+Rowlett,Electronic accessories,5.966666666666667,1
+Rowlett,Food and beverages,5.75,2
+Rowlett,Fashion accessories,5.121951219512195,3
+San Angelo,Sports and travel,9.3,1
+San Angelo,Food and beverages,8.35,2
+San Angelo,Health and beauty,6.5,3
+San Antonio,Sports and travel,7.5,1
+San Antonio,Health and beauty,7.05,2
+San Antonio,Food and beverages,6.466666666666666,3
+San Marcos,Sports and travel,7.9,1
+San Marcos,Health and beauty,6.58,2
+San Marcos,Food and beverages,6.3,3
+Schertz,Sports and travel,5.466666666666666,1
+Schertz,Health and beauty,5.4,2
+Schertz,Home and lifestyle,5.369,3
+Seguin,Food and beverages,9.6,1
+Seguin,Sports and travel,8.9,2
+Seguin,Health and beauty,7.35,3
+Sherman,Health and beauty,5.6,1
+Sherman,Fashion accessories,5.180000000000001,2
+Sherman,Home and lifestyle,4.955223880597015,3
+Southlake,Sports and travel,8.9,1
+Southlake,Food and beverages,7.35,2
+Southlake,Electronic accessories,5.57,3
+Sugar Land,Sports and travel,8.5,1
+Sugar Land,Health and beauty,7.6,2
+Sugar Land,Food and beverages,7.1499999999999995,3
+Temple,Food and beverages,7.3,1
+Temple,Sports and travel,6.533333333333334,2
+Temple,Electronic accessories,5.4799999999999995,3
+Texas City,Health and beauty,6.533333333333334,1
+Texas City,Food and beverages,5.7,2
+Texas City,Sports and travel,5.5,3
+Tyler,Fashion accessories,5.541095890410959,1
+Tyler,Electronic accessories,5.315384615384615,2
+Tyler,Home and lifestyle,5.023809523809524,3
+Victoria,Electronic accessories,5.275,1
+Victoria,Fashion accessories,5.2384615384615385,2
+Victoria,Home and lifestyle,5.003846153846154,3
+Waco,Food and beverages,8.4,1
+Waco,Health and beauty,7.55,2
+Waco,Sports and travel,5.6,3
+Waxahachie,Food and beverages,7.5,1
+Waxahachie,Health and beauty,7.2,2
+Waxahachie,Sports and travel,6.16,3
+Weatherford,Electronic accessories,5.95,1
+Weatherford,Sports and travel,5.2,2
+Weatherford,Home and lifestyle,5.133333333333333,3
+Weslaco,Food and beverages,8.733333333333333,1
+Weslaco,Health and beauty,6.75,2
+Weslaco,Sports and travel,5.6,3

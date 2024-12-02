@@ -1,0 +1,1358 @@
+city,category,year,total_sales
+Abilene,Fashion accessories,2023,1522
+Abilene,Home and lifestyle,2023,1351
+Abilene,Fashion accessories,2019,1063.21
+Abilene,Home and lifestyle,2021,982
+Abilene,Fashion accessories,2021,931
+Abilene,Fashion accessories,2022,886
+Abilene,Food and beverages,2019,601.1800000000001
+Abilene,Home and lifestyle,2022,597
+Abilene,Electronic accessories,2019,465.98999999999995
+Abilene,Fashion accessories,2020,404
+Abilene,Home and lifestyle,2020,314
+Abilene,Home and lifestyle,2019,218.2
+Abilene,Health and beauty,2019,42.24
+Alamo,Home and lifestyle,2023,1136
+Alamo,Home and lifestyle,2022,1077
+Alamo,Fashion accessories,2020,1026
+Alamo,Sports and travel,2019,789.78
+Alamo,Home and lifestyle,2021,550
+Alamo,Home and lifestyle,2020,549
+Alamo,Fashion accessories,2022,546
+Alamo,Fashion accessories,2021,531
+Alamo,Health and beauty,2019,426.05
+Alamo,Food and beverages,2019,339.57
+Alamo,Home and lifestyle,2019,193.85999999999999
+Alamo,Fashion accessories,2023,187
+Alamo,Fashion accessories,2019,180.09
+Alice,Home and lifestyle,2020,1076
+Alice,Fashion accessories,2022,849
+Alice,Fashion accessories,2021,834
+Alice,Electronic accessories,2019,657.16
+Alice,Food and beverages,2019,617.48
+Alice,Home and lifestyle,2022,597
+Alice,Home and lifestyle,2021,583
+Alice,Home and lifestyle,2019,499.02
+Alice,Sports and travel,2019,466.24999999999994
+Alice,Home and lifestyle,2023,413
+Alice,Fashion accessories,2023,401
+Alice,Fashion accessories,2020,384
+Allen,Fashion accessories,2020,1296
+Allen,Fashion accessories,2021,975
+Allen,Health and beauty,2019,813
+Allen,Fashion accessories,2023,770
+Allen,Home and lifestyle,2020,746
+Allen,Home and lifestyle,2023,649
+Allen,Fashion accessories,2022,633
+Allen,Sports and travel,2019,479.58000000000004
+Allen,Home and lifestyle,2021,427
+Allen,Home and lifestyle,2022,356
+Allen,Food and beverages,2019,249.95999999999998
+Allen,Home and lifestyle,2019,178.6
+Allen,Electronic accessories,2019,115.36
+Amarillo,Fashion accessories,2023,1362
+Amarillo,Electronic accessories,2019,1200.35
+Amarillo,Health and beauty,2019,878.7
+Amarillo,Home and lifestyle,2023,655
+Amarillo,Fashion accessories,2022,611
+Amarillo,Home and lifestyle,2019,469.93
+Amarillo,Home and lifestyle,2021,455
+Amarillo,Home and lifestyle,2022,328
+Amarillo,Fashion accessories,2020,264
+Amarillo,Fashion accessories,2019,252.48
+Amarillo,Home and lifestyle,2020,154
+Amarillo,Fashion accessories,2021,147
+Angleton,Home and lifestyle,2022,1158
+Angleton,Home and lifestyle,2021,912
+Angleton,Fashion accessories,2021,880
+Angleton,Sports and travel,2019,848.01
+Angleton,Home and lifestyle,2023,654
+Angleton,Fashion accessories,2023,609
+Angleton,Electronic accessories,2019,553.35
+Angleton,Food and beverages,2019,489.03
+Angleton,Fashion accessories,2022,482
+Angleton,Fashion accessories,2019,481.55999999999995
+Angleton,Home and lifestyle,2020,399
+Angleton,Home and lifestyle,2019,364.52
+Angleton,Health and beauty,2019,345.54
+Angleton,Fashion accessories,2020,223
+Arlington,Fashion accessories,2023,1821
+Arlington,Food and beverages,2019,1081.6000000000001
+Arlington,Fashion accessories,2021,969
+Arlington,Home and lifestyle,2022,903
+Arlington,Home and lifestyle,2019,756.91
+Arlington,Home and lifestyle,2023,726
+Arlington,Home and lifestyle,2020,698
+Arlington,Home and lifestyle,2021,449
+Arlington,Fashion accessories,2022,398
+Arlington,Electronic accessories,2019,291.23
+Arlington,Fashion accessories,2020,281
+Arlington,Sports and travel,2019,166.92999999999998
+Arlington,Fashion accessories,2019,162.74
+Austin,Home and lifestyle,2020,924
+Austin,Fashion accessories,2020,890
+Austin,Fashion accessories,2021,841
+Austin,Home and lifestyle,2021,730
+Austin,Fashion accessories,2022,693
+Austin,Fashion accessories,2019,669.72
+Austin,Home and lifestyle,2022,644
+Austin,Electronic accessories,2019,609.56
+Austin,Fashion accessories,2023,528
+Austin,Home and lifestyle,2023,430
+Austin,Home and lifestyle,2019,226.12
+Austin,Health and beauty,2019,222
+Austin,Food and beverages,2019,158.25
+Baytown,Fashion accessories,2020,1752
+Baytown,Fashion accessories,2021,1333
+Baytown,Sports and travel,2019,1278.8200000000002
+Baytown,Home and lifestyle,2022,1042
+Baytown,Fashion accessories,2019,1016.77
+Baytown,Fashion accessories,2023,996
+Baytown,Fashion accessories,2022,857
+Baytown,Health and beauty,2019,825.8
+Baytown,Home and lifestyle,2020,801
+Baytown,Home and lifestyle,2023,474
+Baytown,Home and lifestyle,2021,401
+Bedford,Health and beauty,2019,2042.92
+Bedford,Fashion accessories,2022,1192
+Bedford,Fashion accessories,2020,770
+Bedford,Electronic accessories,2019,732.48
+Bedford,Home and lifestyle,2022,594
+Bedford,Home and lifestyle,2021,556
+Bedford,Fashion accessories,2021,547
+Bedford,Home and lifestyle,2020,509
+Bedford,Home and lifestyle,2023,496
+Bedford,Fashion accessories,2023,484
+Bedford,Food and beverages,2019,391.1
+Bedford,Fashion accessories,2019,64.99
+Big Spring,Health and beauty,2019,2322.6800000000003
+Big Spring,Sports and travel,2019,1273.46
+Big Spring,Fashion accessories,2021,1089
+Big Spring,Fashion accessories,2019,1055.2199999999998
+Big Spring,Home and lifestyle,2021,1016
+Big Spring,Electronic accessories,2019,972.97
+Big Spring,Home and lifestyle,2020,923
+Big Spring,Home and lifestyle,2023,906
+Big Spring,Fashion accessories,2022,900
+Big Spring,Home and lifestyle,2022,825
+Big Spring,Fashion accessories,2023,793
+Big Spring,Home and lifestyle,2019,699.3199999999999
+Big Spring,Fashion accessories,2020,572
+Big Spring,Electronic accessories,2021,150
+Brownsville,Fashion accessories,2022,1090
+Brownsville,Home and lifestyle,2019,1026.47
+Brownsville,Home and lifestyle,2022,879
+Brownsville,Fashion accessories,2023,877
+Brownsville,Fashion accessories,2021,784
+Brownsville,Sports and travel,2019,741.25
+Brownsville,Home and lifestyle,2023,649
+Brownsville,Home and lifestyle,2021,605
+Brownsville,Home and lifestyle,2020,435
+Brownsville,Fashion accessories,2019,366.16
+Brownsville,Fashion accessories,2020,328
+Brownsville,Electronic accessories,2019,316.11
+Brownsville,Electronic accessories,2020,158
+Brownsville,Electronic accessories,2023,141
+Brownsville,Health and beauty,2019,125.42
+Brownwood,Food and beverages,2019,1641.3600000000001
+Brownwood,Sports and travel,2019,1149.08
+Brownwood,Home and lifestyle,2023,1111
+Brownwood,Fashion accessories,2023,1070
+Brownwood,Home and lifestyle,2020,942
+Brownwood,Home and lifestyle,2021,934
+Brownwood,Home and lifestyle,2022,854
+Brownwood,Fashion accessories,2020,805
+Brownwood,Fashion accessories,2022,692
+Brownwood,Fashion accessories,2021,364
+Bryan,Food and beverages,2019,2485.91
+Bryan,Home and lifestyle,2023,999
+Bryan,Home and lifestyle,2020,998
+Bryan,Home and lifestyle,2019,887.55
+Bryan,Fashion accessories,2020,794
+Bryan,Electronic accessories,2019,760.01
+Bryan,Health and beauty,2019,756.96
+Bryan,Fashion accessories,2022,702
+Bryan,Home and lifestyle,2021,652
+Bryan,Fashion accessories,2019,557.5
+Bryan,Sports and travel,2019,494.78
+Bryan,Home and lifestyle,2022,371
+Bryan,Fashion accessories,2021,352
+Bryan,Fashion accessories,2023,329
+Burleson,Sports and travel,2019,1595.8799999999999
+Burleson,Home and lifestyle,2021,1103
+Burleson,Fashion accessories,2021,1087
+Burleson,Home and lifestyle,2023,952
+Burleson,Fashion accessories,2023,744
+Burleson,Fashion accessories,2022,732
+Burleson,Fashion accessories,2020,445
+Burleson,Home and lifestyle,2020,375
+Burleson,Food and beverages,2019,318.05
+Burleson,Home and lifestyle,2022,156
+Burleson,Electronic accessories,2019,148.24
+Burleson,Health and beauty,2019,87.05
+Canyon,Health and beauty,2019,1366.71
+Canyon,Fashion accessories,2020,951
+Canyon,Home and lifestyle,2022,902
+Canyon,Home and lifestyle,2023,898
+Canyon,Home and lifestyle,2019,735.6
+Canyon,Fashion accessories,2023,668
+Canyon,Home and lifestyle,2021,572
+Canyon,Home and lifestyle,2020,549
+Canyon,Sports and travel,2019,497.41
+Canyon,Electronic accessories,2019,356.98
+Canyon,Fashion accessories,2022,254
+Canyon,Fashion accessories,2021,200
+Canyon,Fashion accessories,2019,199.64
+Canyon,Electronic accessories,2020,104
+Carrollton,Fashion accessories,2021,1135
+Carrollton,Home and lifestyle,2021,1025
+Carrollton,Home and lifestyle,2020,853
+Carrollton,Home and lifestyle,2023,818
+Carrollton,Home and lifestyle,2022,814
+Carrollton,Fashion accessories,2019,687.6
+Carrollton,Fashion accessories,2022,682
+Carrollton,Fashion accessories,2023,531
+Carrollton,Home and lifestyle,2019,522.63
+Carrollton,Fashion accessories,2020,349
+Carrollton,Health and beauty,2019,274.48
+Carrollton,Sports and travel,2019,50.62
+Carrollton,Electronic accessories,2019,31.77
+Cedar Park,Home and lifestyle,2019,1467.08
+Cedar Park,Home and lifestyle,2021,1043
+Cedar Park,Home and lifestyle,2020,958
+Cedar Park,Home and lifestyle,2023,781
+Cedar Park,Fashion accessories,2021,716
+Cedar Park,Fashion accessories,2022,710
+Cedar Park,Food and beverages,2019,682.19
+Cedar Park,Home and lifestyle,2022,658
+Cedar Park,Fashion accessories,2020,650
+Cedar Park,Fashion accessories,2023,615
+Cedar Park,Health and beauty,2019,595.14
+Cedar Park,Sports and travel,2019,513.18
+Cedar Park,Fashion accessories,2019,483.28
+Cedar Park,Electronic accessories,2023,189
+Cedar Park,Electronic accessories,2020,150
+Cedar Park,Electronic accessories,2019,135.24
+Cleburne,Electronic accessories,2019,2114.41
+Cleburne,Health and beauty,2019,1461.33
+Cleburne,Fashion accessories,2021,1209
+Cleburne,Fashion accessories,2022,1166
+Cleburne,Fashion accessories,2020,1041
+Cleburne,Home and lifestyle,2020,864
+Cleburne,Sports and travel,2019,861.75
+Cleburne,Home and lifestyle,2019,574.02
+Cleburne,Fashion accessories,2023,574
+Cleburne,Home and lifestyle,2023,552
+Cleburne,Home and lifestyle,2022,527
+Cleburne,Fashion accessories,2019,451.76
+Cleburne,Home and lifestyle,2021,384
+College Station,Home and lifestyle,2019,906.43
+College Station,Home and lifestyle,2022,839
+College Station,Fashion accessories,2022,806
+College Station,Electronic accessories,2019,697.01
+College Station,Home and lifestyle,2021,672
+College Station,Fashion accessories,2023,626
+College Station,Fashion accessories,2021,580
+College Station,Fashion accessories,2020,543
+College Station,Home and lifestyle,2023,505
+College Station,Home and lifestyle,2020,430
+College Station,Fashion accessories,2019,410.72
+College Station,Health and beauty,2019,323.2
+College Station,Food and beverages,2019,114.72999999999999
+Conroe,Fashion accessories,2021,1546
+Conroe,Fashion accessories,2023,958
+Conroe,Fashion accessories,2022,930
+Conroe,Food and beverages,2019,888.47
+Conroe,Fashion accessories,2020,865
+Conroe,Home and lifestyle,2021,846
+Conroe,Home and lifestyle,2022,664
+Conroe,Electronic accessories,2019,631.84
+Conroe,Home and lifestyle,2020,605
+Conroe,Home and lifestyle,2023,361
+Conroe,Health and beauty,2019,207.15
+Conroe,Sports and travel,2019,155
+Coppell,Fashion accessories,2023,1328
+Coppell,Fashion accessories,2021,774
+Coppell,Electronic accessories,2019,760.53
+Coppell,Fashion accessories,2020,631
+Coppell,Home and lifestyle,2023,556
+Coppell,Home and lifestyle,2020,529
+Coppell,Health and beauty,2019,526.68
+Coppell,Fashion accessories,2019,484.39
+Coppell,Fashion accessories,2022,478
+Coppell,Home and lifestyle,2022,384
+Coppell,Home and lifestyle,2021,338
+Coppell,Home and lifestyle,2019,98.22
+Coppell,Sports and travel,2019,39.12
+Corpus Christi,Home and lifestyle,2023,1582
+Corpus Christi,Home and lifestyle,2021,1447
+Corpus Christi,Home and lifestyle,2019,1043.16
+Corpus Christi,Health and beauty,2019,983.8399999999999
+Corpus Christi,Home and lifestyle,2020,976
+Corpus Christi,Fashion accessories,2023,863
+Corpus Christi,Home and lifestyle,2022,726
+Corpus Christi,Sports and travel,2019,562.3199999999999
+Corpus Christi,Fashion accessories,2020,534
+Corpus Christi,Fashion accessories,2022,415
+Corpus Christi,Fashion accessories,2021,290
+Corpus Christi,Food and beverages,2019,257.39000000000004
+Corpus Christi,Electronic accessories,2019,53.22
+Dallas,Home and lifestyle,2023,1362
+Dallas,Electronic accessories,2019,1076.44
+Dallas,Fashion accessories,2021,1076
+Dallas,Fashion accessories,2022,917
+Dallas,Home and lifestyle,2021,819
+Dallas,Home and lifestyle,2020,511
+Dallas,Fashion accessories,2020,426
+Dallas,Fashion accessories,2019,379.5
+Dallas,Food and beverages,2019,287.73
+Dallas,Sports and travel,2019,253.36
+Dallas,Home and lifestyle,2022,252
+Dallas,Fashion accessories,2023,210
+Dallas,Home and lifestyle,2019,164.09
+Del Rio,Home and lifestyle,2020,1412
+Del Rio,Fashion accessories,2021,1344
+Del Rio,Home and lifestyle,2022,1232
+Del Rio,Fashion accessories,2022,1066
+Del Rio,Home and lifestyle,2021,801
+Del Rio,Food and beverages,2019,798.8
+Del Rio,Sports and travel,2019,742.56
+Del Rio,Home and lifestyle,2023,713
+Del Rio,Fashion accessories,2023,708
+Del Rio,Fashion accessories,2020,539
+Del Rio,Home and lifestyle,2019,494.71999999999997
+Del Rio,Fashion accessories,2019,441.17999999999995
+Del Rio,Health and beauty,2019,212.45000000000002
+Denton,Fashion accessories,2023,1264
+Denton,Electronic accessories,2019,974.94
+Denton,Home and lifestyle,2021,834
+Denton,Fashion accessories,2021,820
+Denton,Home and lifestyle,2022,801
+Denton,Home and lifestyle,2023,763
+Denton,Fashion accessories,2019,724.84
+Denton,Home and lifestyle,2020,718
+Denton,Fashion accessories,2022,675
+Denton,Food and beverages,2019,511.42
+Denton,Sports and travel,2019,461.78
+Denton,Fashion accessories,2020,363
+Denton,Health and beauty,2019,184.41000000000003
+Denton,Electronic accessories,2020,30
+DeSoto,Home and lifestyle,2023,1375
+DeSoto,Fashion accessories,2023,1173
+DeSoto,Fashion accessories,2021,1124
+DeSoto,Home and lifestyle,2020,989
+DeSoto,Fashion accessories,2022,794
+DeSoto,Home and lifestyle,2019,716.6700000000001
+DeSoto,Home and lifestyle,2021,670
+DeSoto,Fashion accessories,2019,514.46
+DeSoto,Home and lifestyle,2022,497
+DeSoto,Health and beauty,2019,334.86
+DeSoto,Fashion accessories,2020,271
+DeSoto,Sports and travel,2019,197.96
+DeSoto,Food and beverages,2019,145.78
+Eagle Pass,Fashion accessories,2019,1681.6999999999998
+Eagle Pass,Home and lifestyle,2023,1659
+Eagle Pass,Fashion accessories,2022,1396
+Eagle Pass,Food and beverages,2019,991.8599999999999
+Eagle Pass,Home and lifestyle,2020,988
+Eagle Pass,Home and lifestyle,2021,901
+Eagle Pass,Home and lifestyle,2022,892
+Eagle Pass,Fashion accessories,2021,781
+Eagle Pass,Fashion accessories,2020,618
+Eagle Pass,Fashion accessories,2023,596
+Eagle Pass,Home and lifestyle,2019,318.42
+Eagle Pass,Health and beauty,2019,193.16
+Eagle Pass,Electronic accessories,2019,146.64999999999998
+Eagle Pass,Sports and travel,2019,93.38
+Edinburg,Fashion accessories,2019,1099.5
+Edinburg,Home and lifestyle,2023,1076
+Edinburg,Fashion accessories,2020,786
+Edinburg,Home and lifestyle,2022,760
+Edinburg,Fashion accessories,2023,710
+Edinburg,Sports and travel,2019,666.1800000000001
+Edinburg,Home and lifestyle,2021,659
+Edinburg,Home and lifestyle,2020,628
+Edinburg,Electronic accessories,2019,490.31
+Edinburg,Fashion accessories,2021,413
+Edinburg,Fashion accessories,2022,382
+Edinburg,Health and beauty,2019,17.75
+El Paso,Home and lifestyle,2023,1345
+El Paso,Fashion accessories,2021,1276
+El Paso,Fashion accessories,2020,1004
+El Paso,Home and lifestyle,2020,878
+El Paso,Fashion accessories,2023,743
+El Paso,Sports and travel,2019,724.04
+El Paso,Home and lifestyle,2021,535
+El Paso,Fashion accessories,2022,402
+El Paso,Home and lifestyle,2019,378.9
+El Paso,Home and lifestyle,2022,363
+El Paso,Food and beverages,2019,280.62
+El Paso,Fashion accessories,2019,31.9
+Euless,Food and beverages,2019,1974.52
+Euless,Fashion accessories,2019,1968.7200000000003
+Euless,Sports and travel,2019,1524.59
+Euless,Fashion accessories,2023,1023
+Euless,Home and lifestyle,2021,855
+Euless,Fashion accessories,2020,815
+Euless,Fashion accessories,2021,806
+Euless,Home and lifestyle,2023,534
+Euless,Fashion accessories,2022,501
+Euless,Home and lifestyle,2022,392
+Euless,Home and lifestyle,2020,332
+Euless,Home and lifestyle,2019,206.91
+Euless,Health and beauty,2019,178.4
+Euless,Electronic accessories,2021,99
+Euless,Electronic accessories,2019,38.6
+Farmers Branch,Electronic accessories,2019,1577.1100000000001
+Farmers Branch,Home and lifestyle,2021,1293
+Farmers Branch,Fashion accessories,2023,1224
+Farmers Branch,Home and lifestyle,2020,1010
+Farmers Branch,Home and lifestyle,2022,947
+Farmers Branch,Fashion accessories,2021,882
+Farmers Branch,Fashion accessories,2020,827
+Farmers Branch,Fashion accessories,2019,784.3599999999999
+Farmers Branch,Food and beverages,2019,516.66
+Farmers Branch,Home and lifestyle,2023,421
+Farmers Branch,Fashion accessories,2022,405
+Farmers Branch,Home and lifestyle,2019,66.4
+Flower Mound,Home and lifestyle,2022,1401
+Flower Mound,Fashion accessories,2022,1180
+Flower Mound,Fashion accessories,2020,906
+Flower Mound,Fashion accessories,2021,869
+Flower Mound,Home and lifestyle,2021,843
+Flower Mound,Home and lifestyle,2020,753
+Flower Mound,Fashion accessories,2019,688.2700000000001
+Flower Mound,Home and lifestyle,2023,655
+Flower Mound,Sports and travel,2019,551.44
+Flower Mound,Home and lifestyle,2019,529.91
+Flower Mound,Electronic accessories,2019,418.04
+Flower Mound,Fashion accessories,2023,414
+Flower Mound,Food and beverages,2019,356.95
+Flower Mound,Health and beauty,2019,349.44
+Fort Worth,Electronic accessories,2019,1663.58
+Fort Worth,Home and lifestyle,2022,1272
+Fort Worth,Fashion accessories,2023,1225
+Fort Worth,Home and lifestyle,2020,1109
+Fort Worth,Home and lifestyle,2019,1006.12
+Fort Worth,Home and lifestyle,2023,927
+Fort Worth,Health and beauty,2019,847.86
+Fort Worth,Fashion accessories,2022,722
+Fort Worth,Fashion accessories,2021,633
+Fort Worth,Home and lifestyle,2021,615
+Fort Worth,Fashion accessories,2020,574
+Fort Worth,Food and beverages,2019,550.1999999999999
+Fort Worth,Fashion accessories,2019,509.88
+Friendswood,Food and beverages,2019,1476.2399999999998
+Friendswood,Fashion accessories,2020,1193
+Friendswood,Fashion accessories,2022,986
+Friendswood,Health and beauty,2019,745.0600000000001
+Friendswood,Home and lifestyle,2022,737
+Friendswood,Home and lifestyle,2020,704
+Friendswood,Home and lifestyle,2021,517
+Friendswood,Home and lifestyle,2023,500
+Friendswood,Fashion accessories,2021,422
+Friendswood,Fashion accessories,2023,350
+Friendswood,Electronic accessories,2019,283.92
+Friendswood,Fashion accessories,2019,199.78
+Friendswood,Sports and travel,2019,74.97
+Frisco,Sports and travel,2019,1628.19
+Frisco,Home and lifestyle,2022,890
+Frisco,Fashion accessories,2022,856
+Frisco,Home and lifestyle,2023,840
+Frisco,Fashion accessories,2021,815
+Frisco,Home and lifestyle,2021,629
+Frisco,Home and lifestyle,2020,540
+Frisco,Fashion accessories,2023,536
+Frisco,Electronic accessories,2019,266.76
+Frisco,Fashion accessories,2020,233
+Galveston,Home and lifestyle,2021,1470
+Galveston,Fashion accessories,2019,1430.64
+Galveston,Fashion accessories,2020,1325
+Galveston,Fashion accessories,2021,1237
+Galveston,Home and lifestyle,2023,1117
+Galveston,Home and lifestyle,2022,1068
+Galveston,Health and beauty,2019,989.74
+Galveston,Electronic accessories,2019,715.88
+Galveston,Home and lifestyle,2020,605
+Galveston,Home and lifestyle,2019,599.52
+Galveston,Food and beverages,2019,524.88
+Galveston,Sports and travel,2019,448.56
+Galveston,Fashion accessories,2022,432
+Galveston,Fashion accessories,2023,279
+Garland,Food and beverages,2019,2114.44
+Garland,Home and lifestyle,2023,1548
+Garland,Fashion accessories,2021,1228
+Garland,Home and lifestyle,2022,1167
+Garland,Health and beauty,2019,1109.3899999999999
+Garland,Home and lifestyle,2021,1061
+Garland,Fashion accessories,2019,821.56
+Garland,Fashion accessories,2020,704
+Garland,Fashion accessories,2023,646
+Garland,Home and lifestyle,2020,646
+Garland,Fashion accessories,2022,314
+Georgetown,Home and lifestyle,2019,2023.2000000000003
+Georgetown,Home and lifestyle,2021,1444
+Georgetown,Fashion accessories,2023,1412
+Georgetown,Food and beverages,2019,1015.3299999999999
+Georgetown,Fashion accessories,2021,868
+Georgetown,Home and lifestyle,2023,782
+Georgetown,Fashion accessories,2022,769
+Georgetown,Electronic accessories,2019,630.42
+Georgetown,Fashion accessories,2020,546
+Georgetown,Home and lifestyle,2022,525
+Georgetown,Home and lifestyle,2020,191
+Georgetown,Sports and travel,2019,138.48
+Georgetown,Fashion accessories,2019,104.58
+Georgetown,Health and beauty,2019,27.07
+Grand Prairie,Fashion accessories,2023,1676
+Grand Prairie,Fashion accessories,2022,1489
+Grand Prairie,Home and lifestyle,2020,1272
+Grand Prairie,Fashion accessories,2021,945
+Grand Prairie,Home and lifestyle,2023,924
+Grand Prairie,Home and lifestyle,2022,899
+Grand Prairie,Electronic accessories,2019,823.4000000000001
+Grand Prairie,Fashion accessories,2020,553
+Grand Prairie,Fashion accessories,2019,462.45
+Grand Prairie,Home and lifestyle,2021,405
+Grand Prairie,Sports and travel,2019,319.06
+Grand Prairie,Food and beverages,2019,252.81
+Grand Prairie,Home and lifestyle,2019,102.2
+Grapevine,Home and lifestyle,2019,3691.2200000000003
+Grapevine,Home and lifestyle,2021,1616
+Grapevine,Fashion accessories,2020,1375
+Grapevine,Fashion accessories,2023,994
+Grapevine,Home and lifestyle,2020,946
+Grapevine,Fashion accessories,2022,937
+Grapevine,Home and lifestyle,2023,842
+Grapevine,Food and beverages,2019,505.5799999999999
+Grapevine,Fashion accessories,2019,403.36
+Grapevine,Electronic accessories,2019,328
+Grapevine,Home and lifestyle,2022,261
+Grapevine,Fashion accessories,2021,200
+Grapevine,Health and beauty,2019,72.52
+Grapevine,Sports and travel,2019,28.78
+Haltom City,Home and lifestyle,2019,1696.04
+Haltom City,Home and lifestyle,2020,1551
+Haltom City,Fashion accessories,2022,1329
+Haltom City,Fashion accessories,2023,1129
+Haltom City,Electronic accessories,2019,959.31
+Haltom City,Home and lifestyle,2023,917
+Haltom City,Fashion accessories,2021,793
+Haltom City,Home and lifestyle,2022,521
+Haltom City,Fashion accessories,2020,413
+Haltom City,Home and lifestyle,2021,406
+Haltom City,Food and beverages,2019,343.74
+Haltom City,Sports and travel,2019,174.32
+Harlingen,Fashion accessories,2021,1095
+Harlingen,Home and lifestyle,2020,984
+Harlingen,Home and lifestyle,2023,825
+Harlingen,Home and lifestyle,2022,806
+Harlingen,Fashion accessories,2019,805.1800000000001
+Harlingen,Fashion accessories,2022,740
+Harlingen,Fashion accessories,2023,721
+Harlingen,Home and lifestyle,2021,642
+Harlingen,Fashion accessories,2020,608
+Harlingen,Health and beauty,2019,322.58
+Harlingen,Home and lifestyle,2019,263.76
+Harlingen,Sports and travel,2019,241.87999999999997
+Harlingen,Electronic accessories,2019,76.39999999999999
+Houston,Sports and travel,2019,1516.29
+Houston,Home and lifestyle,2019,1059.08
+Houston,Electronic accessories,2019,969.6300000000001
+Houston,Home and lifestyle,2023,966
+Houston,Home and lifestyle,2021,945
+Houston,Home and lifestyle,2022,943
+Houston,Fashion accessories,2020,908
+Houston,Home and lifestyle,2020,906
+Houston,Fashion accessories,2021,844
+Houston,Fashion accessories,2022,545
+Houston,Fashion accessories,2023,497
+Houston,Fashion accessories,2019,126.67999999999999
+Huntsville,Home and lifestyle,2022,1157
+Huntsville,Fashion accessories,2020,1042
+Huntsville,Fashion accessories,2019,1040.61
+Huntsville,Fashion accessories,2023,1007
+Huntsville,Home and lifestyle,2020,785
+Huntsville,Fashion accessories,2022,697
+Huntsville,Home and lifestyle,2021,656
+Huntsville,Electronic accessories,2019,558.6999999999999
+Huntsville,Home and lifestyle,2023,513
+Huntsville,Food and beverages,2019,479.9
+Huntsville,Fashion accessories,2021,227
+Hurst,Health and beauty,2019,1348.6299999999999
+Hurst,Home and lifestyle,2019,1064.48
+Hurst,Home and lifestyle,2021,889
+Hurst,Fashion accessories,2022,791
+Hurst,Food and beverages,2019,755.76
+Hurst,Electronic accessories,2019,690.72
+Hurst,Fashion accessories,2023,666
+Hurst,Home and lifestyle,2020,613
+Hurst,Home and lifestyle,2023,589
+Hurst,Fashion accessories,2021,552
+Hurst,Sports and travel,2019,532.3199999999999
+Hurst,Home and lifestyle,2022,473
+Hurst,Fashion accessories,2020,420
+Hurst,Fashion accessories,2019,385.09999999999997
+Hurst,Electronic accessories,2023,158
+Irving,Home and lifestyle,2022,877
+Irving,Fashion accessories,2020,713
+Irving,Sports and travel,2019,604.1700000000001
+Irving,Fashion accessories,2023,561
+Irving,Home and lifestyle,2023,517
+Irving,Fashion accessories,2021,512
+Irving,Fashion accessories,2019,455.58000000000004
+Irving,Health and beauty,2019,448.56
+Irving,Fashion accessories,2022,361
+Irving,Home and lifestyle,2021,352
+Irving,Home and lifestyle,2019,332
+Irving,Home and lifestyle,2020,321
+Irving,Electronic accessories,2019,96.8
+Irving,Electronic accessories,2022,70
+Irving,Electronic accessories,2023,16
+Kerrville,Sports and travel,2019,1799.2
+Kerrville,Fashion accessories,2022,1381
+Kerrville,Home and lifestyle,2020,1003
+Kerrville,Fashion accessories,2020,926
+Kerrville,Fashion accessories,2021,735
+Kerrville,Home and lifestyle,2021,720
+Kerrville,Home and lifestyle,2023,670
+Kerrville,Home and lifestyle,2022,540
+Kerrville,Fashion accessories,2023,509
+Kerrville,Home and lifestyle,2019,470.28
+Kerrville,Health and beauty,2019,409.83000000000004
+Kerrville,Food and beverages,2019,146.79
+Kerrville,Fashion accessories,2019,89.69
+Kerrville,Electronic accessories,2019,39.48
+Killeen,Sports and travel,2019,1297.26
+Killeen,Fashion accessories,2021,1266
+Killeen,Home and lifestyle,2019,1131.83
+Killeen,Electronic accessories,2019,1121.65
+Killeen,Home and lifestyle,2021,1110
+Killeen,Fashion accessories,2020,1082
+Killeen,Home and lifestyle,2020,665
+Killeen,Fashion accessories,2022,656
+Killeen,Fashion accessories,2023,630
+Killeen,Food and beverages,2019,536.74
+Killeen,Home and lifestyle,2023,453
+Killeen,Home and lifestyle,2022,411
+Killeen,Health and beauty,2019,273.78
+Killeen,Fashion accessories,2019,198.5
+La Porte,Sports and travel,2019,1416.17
+La Porte,Fashion accessories,2021,1033
+La Porte,Fashion accessories,2019,1021.46
+La Porte,Home and lifestyle,2022,960
+La Porte,Home and lifestyle,2023,928
+La Porte,Fashion accessories,2020,889
+La Porte,Fashion accessories,2023,842
+La Porte,Home and lifestyle,2020,506
+La Porte,Home and lifestyle,2021,478
+La Porte,Fashion accessories,2022,427
+La Porte,Health and beauty,2019,278.08000000000004
+La Porte,Home and lifestyle,2019,248.76
+Lake Jackson,Fashion accessories,2021,786
+Lake Jackson,Home and lifestyle,2022,677
+Lake Jackson,Fashion accessories,2023,645
+Lake Jackson,Sports and travel,2019,615.1800000000001
+Lake Jackson,Fashion accessories,2022,453
+Lake Jackson,Home and lifestyle,2019,444.42
+Lake Jackson,Health and beauty,2019,418.29999999999995
+Lake Jackson,Home and lifestyle,2021,406
+Lake Jackson,Home and lifestyle,2023,381
+Lake Jackson,Home and lifestyle,2020,118
+Lake Jackson,Fashion accessories,2020,95
+Lancaster,Fashion accessories,2023,1061
+Lancaster,Home and lifestyle,2019,832.1899999999999
+Lancaster,Fashion accessories,2019,811.84
+Lancaster,Fashion accessories,2020,794
+Lancaster,Fashion accessories,2021,785
+Lancaster,Home and lifestyle,2023,724
+Lancaster,Food and beverages,2019,718.28
+Lancaster,Electronic accessories,2019,595.14
+Lancaster,Home and lifestyle,2022,494
+Lancaster,Home and lifestyle,2020,413
+Lancaster,Home and lifestyle,2021,403
+Lancaster,Fashion accessories,2022,275
+Lancaster,Sports and travel,2019,244.89999999999998
+Lancaster,Electronic accessories,2022,42
+Laredo,Fashion accessories,2020,1081
+Laredo,Home and lifestyle,2023,1075
+Laredo,Fashion accessories,2023,1039
+Laredo,Home and lifestyle,2021,1014
+Laredo,Food and beverages,2019,734.2199999999999
+Laredo,Fashion accessories,2019,655.4
+Laredo,Electronic accessories,2019,587.6
+Laredo,Fashion accessories,2021,554
+Laredo,Fashion accessories,2022,439
+Laredo,Home and lifestyle,2020,417
+Laredo,Home and lifestyle,2022,369
+Laredo,Health and beauty,2019,195.54000000000002
+Laredo,Home and lifestyle,2019,74.86
+League City,Home and lifestyle,2021,1426
+League City,Sports and travel,2019,1164.06
+League City,Home and lifestyle,2022,879
+League City,Fashion accessories,2022,869
+League City,Home and lifestyle,2023,727
+League City,Electronic accessories,2019,723.24
+League City,Home and lifestyle,2020,641
+League City,Health and beauty,2019,629.8600000000001
+League City,Fashion accessories,2023,528
+League City,Fashion accessories,2019,471.73
+League City,Fashion accessories,2020,333
+League City,Food and beverages,2019,164.96
+League City,Fashion accessories,2021,132
+Lewisville,Health and beauty,2019,1063.85
+Lewisville,Fashion accessories,2023,693
+Lewisville,Fashion accessories,2022,662
+Lewisville,Fashion accessories,2020,528
+Lewisville,Home and lifestyle,2020,493
+Lewisville,Electronic accessories,2019,432.2
+Lewisville,Home and lifestyle,2021,388
+Lewisville,Home and lifestyle,2022,351
+Lewisville,Fashion accessories,2021,345
+Lewisville,Home and lifestyle,2023,290
+Lewisville,Sports and travel,2019,126.25
+Lewisville,Home and lifestyle,2019,101.52
+Lewisville,Food and beverages,2019,48.61
+Lewisville,Fashion accessories,2019,46.41
+Little Elm,Home and lifestyle,2023,1499
+Little Elm,Fashion accessories,2020,1178
+Little Elm,Home and lifestyle,2020,1125
+Little Elm,Fashion accessories,2023,895
+Little Elm,Electronic accessories,2019,839.6500000000001
+Little Elm,Fashion accessories,2019,809.36
+Little Elm,Fashion accessories,2021,716
+Little Elm,Home and lifestyle,2022,570
+Little Elm,Food and beverages,2019,525.82
+Little Elm,Home and lifestyle,2021,512
+Little Elm,Fashion accessories,2022,392
+Little Elm,Sports and travel,2019,80.72
+Longview,Home and lifestyle,2021,1335
+Longview,Home and lifestyle,2023,1189
+Longview,Food and beverages,2019,951.1800000000001
+Longview,Health and beauty,2019,601.09
+Longview,Electronic accessories,2019,570.3600000000001
+Longview,Fashion accessories,2023,496
+Longview,Home and lifestyle,2022,446
+Longview,Fashion accessories,2022,422
+Longview,Fashion accessories,2021,326
+Longview,Home and lifestyle,2020,207
+Longview,Fashion accessories,2020,160
+Longview,Home and lifestyle,2019,65.69999999999999
+Lubbock,Home and lifestyle,2023,970
+Lubbock,Fashion accessories,2022,828
+Lubbock,Electronic accessories,2019,742.2
+Lubbock,Fashion accessories,2021,727
+Lubbock,Home and lifestyle,2019,712.4000000000001
+Lubbock,Fashion accessories,2020,669
+Lubbock,Home and lifestyle,2021,603
+Lubbock,Fashion accessories,2023,587
+Lubbock,Home and lifestyle,2020,518
+Lubbock,Health and beauty,2019,499.9
+Lubbock,Home and lifestyle,2022,407
+Lubbock,Food and beverages,2019,320.53
+Lubbock,Sports and travel,2019,130.51
+Lufkin,Fashion accessories,2019,1064.28
+Lufkin,Fashion accessories,2023,1055
+Lufkin,Health and beauty,2019,1011.96
+Lufkin,Home and lifestyle,2022,1004
+Lufkin,Home and lifestyle,2019,700.52
+Lufkin,Sports and travel,2019,551.8100000000001
+Lufkin,Fashion accessories,2020,526
+Lufkin,Fashion accessories,2021,494
+Lufkin,Home and lifestyle,2023,344
+Lufkin,Food and beverages,2019,278.78
+Lufkin,Fashion accessories,2022,276
+Lufkin,Home and lifestyle,2020,190
+Lufkin,Home and lifestyle,2021,124
+Lufkin,Electronic accessories,2019,98.84
+Mansfield,Home and lifestyle,2021,1463
+Mansfield,Food and beverages,2019,1343.94
+Mansfield,Fashion accessories,2023,1322
+Mansfield,Fashion accessories,2021,1245
+Mansfield,Health and beauty,2019,1223.92
+Mansfield,Home and lifestyle,2020,812
+Mansfield,Electronic accessories,2019,769.93
+Mansfield,Home and lifestyle,2022,660
+Mansfield,Fashion accessories,2020,635
+Mansfield,Fashion accessories,2022,532
+Mansfield,Home and lifestyle,2023,493
+Mansfield,Home and lifestyle,2019,436.85
+McAllen,Fashion accessories,2019,1322.35
+McAllen,Fashion accessories,2023,952
+McAllen,Home and lifestyle,2021,889
+McAllen,Sports and travel,2019,799.15
+McAllen,Home and lifestyle,2022,683
+McAllen,Home and lifestyle,2023,658
+McAllen,Fashion accessories,2020,516
+McAllen,Fashion accessories,2022,479
+McAllen,Home and lifestyle,2020,446
+McAllen,Fashion accessories,2021,442
+McAllen,Home and lifestyle,2019,380.72
+McAllen,Food and beverages,2019,358.24
+McAllen,Health and beauty,2019,124.64999999999999
+McKinney,Home and lifestyle,2021,1746
+McKinney,Fashion accessories,2019,1614.1999999999998
+McKinney,Home and lifestyle,2019,1514.42
+McKinney,Fashion accessories,2023,1276
+McKinney,Fashion accessories,2021,1115
+McKinney,Fashion accessories,2020,1057
+McKinney,Home and lifestyle,2023,1056
+McKinney,Sports and travel,2019,954.4
+McKinney,Fashion accessories,2022,762
+McKinney,Home and lifestyle,2022,684
+McKinney,Food and beverages,2019,655.92
+McKinney,Home and lifestyle,2020,622
+McKinney,Health and beauty,2019,427.77
+McKinney,Electronic accessories,2019,403
+Mesquite,Fashion accessories,2019,1418.9199999999998
+Mesquite,Home and lifestyle,2023,1066
+Mesquite,Home and lifestyle,2021,966
+Mesquite,Home and lifestyle,2020,937
+Mesquite,Fashion accessories,2021,831
+Mesquite,Fashion accessories,2023,824
+Mesquite,Fashion accessories,2022,811
+Mesquite,Home and lifestyle,2022,733
+Mesquite,Fashion accessories,2020,721
+Mesquite,Electronic accessories,2019,689.9799999999999
+Mesquite,Health and beauty,2019,486.3
+Mesquite,Food and beverages,2019,397.68
+Mesquite,Sports and travel,2019,379.04
+Mesquite,Electronic accessories,2022,140
+Midland,Fashion accessories,2021,1219
+Midland,Sports and travel,2019,1163.8899999999999
+Midland,Fashion accessories,2023,992
+Midland,Health and beauty,2019,937.86
+Midland,Fashion accessories,2022,854
+Midland,Home and lifestyle,2019,755.92
+Midland,Home and lifestyle,2020,590
+Midland,Fashion accessories,2020,543
+Midland,Home and lifestyle,2021,502
+Midland,Home and lifestyle,2023,374
+Midland,Home and lifestyle,2022,351
+Midland,Food and beverages,2019,332.1
+Midland,Fashion accessories,2019,312.45
+Midland,Electronic accessories,2019,253.82999999999998
+Midland,Electronic accessories,2022,17
+Mineral Wells,Home and lifestyle,2022,1264
+Mineral Wells,Fashion accessories,2022,1182
+Mineral Wells,Sports and travel,2019,970.4099999999999
+Mineral Wells,Fashion accessories,2019,945.97
+Mineral Wells,Fashion accessories,2021,889
+Mineral Wells,Home and lifestyle,2021,747
+Mineral Wells,Home and lifestyle,2020,622
+Mineral Wells,Electronic accessories,2019,616.0899999999999
+Mineral Wells,Home and lifestyle,2023,585
+Mineral Wells,Food and beverages,2019,541.4399999999999
+Mineral Wells,Fashion accessories,2020,435
+Mineral Wells,Fashion accessories,2023,394
+Mineral Wells,Home and lifestyle,2019,174.24
+Mineral Wells,Health and beauty,2019,92.78
+Mineral Wells,Electronic accessories,2023,51
+Mission,Home and lifestyle,2021,1195
+Mission,Fashion accessories,2020,1194
+Mission,Home and lifestyle,2020,1018
+Mission,Fashion accessories,2022,810
+Mission,Fashion accessories,2023,675
+Mission,Home and lifestyle,2022,607
+Mission,Home and lifestyle,2023,556
+Mission,Fashion accessories,2021,436
+Mission,Food and beverages,2019,353.28
+Mission,Sports and travel,2019,313.09999999999997
+Mission,Home and lifestyle,2019,98.2
+Mission,Fashion accessories,2019,71.48
+Missouri City,Fashion accessories,2022,1087
+Missouri City,Health and beauty,2019,1003.39
+Missouri City,Home and lifestyle,2021,925
+Missouri City,Fashion accessories,2019,663.21
+Missouri City,Home and lifestyle,2022,644
+Missouri City,Home and lifestyle,2020,581
+Missouri City,Food and beverages,2019,485.15
+Missouri City,Fashion accessories,2020,480
+Missouri City,Home and lifestyle,2019,467.70000000000005
+Missouri City,Fashion accessories,2021,350
+Missouri City,Fashion accessories,2023,339
+Missouri City,Home and lifestyle,2023,308
+Missouri City,Electronic accessories,2019,214.28
+Missouri City,Sports and travel,2019,80.93
+Nacogdoches,Food and beverages,2019,2072.3199999999997
+Nacogdoches,Fashion accessories,2023,1124
+Nacogdoches,Fashion accessories,2020,1033
+Nacogdoches,Home and lifestyle,2020,962
+Nacogdoches,Fashion accessories,2021,927
+Nacogdoches,Fashion accessories,2022,821
+Nacogdoches,Home and lifestyle,2022,703
+Nacogdoches,Home and lifestyle,2021,675
+Nacogdoches,Home and lifestyle,2019,603.8000000000001
+Nacogdoches,Home and lifestyle,2023,517
+Nacogdoches,Fashion accessories,2019,316.14
+Nacogdoches,Sports and travel,2019,265.3
+Nacogdoches,Electronic accessories,2019,83.08
+Nacogdoches,Electronic accessories,2020,72
+New Braunfels,Home and lifestyle,2023,1232
+New Braunfels,Fashion accessories,2022,994
+New Braunfels,Fashion accessories,2020,906
+New Braunfels,Fashion accessories,2021,854
+New Braunfels,Sports and travel,2019,848.9300000000001
+New Braunfels,Health and beauty,2019,793.28
+New Braunfels,Home and lifestyle,2020,728
+New Braunfels,Home and lifestyle,2021,505
+New Braunfels,Food and beverages,2019,458.31
+New Braunfels,Home and lifestyle,2022,422
+New Braunfels,Fashion accessories,2019,365.56
+New Braunfels,Fashion accessories,2023,304
+New Braunfels,Electronic accessories,2019,281.34000000000003
+North Richland Hills,Sports and travel,2019,1268.7800000000002
+North Richland Hills,Home and lifestyle,2023,1249
+North Richland Hills,Food and beverages,2019,1220.79
+North Richland Hills,Home and lifestyle,2019,1133.27
+North Richland Hills,Electronic accessories,2019,926.76
+North Richland Hills,Fashion accessories,2022,891
+North Richland Hills,Fashion accessories,2023,880
+North Richland Hills,Fashion accessories,2019,820.21
+North Richland Hills,Home and lifestyle,2022,648
+North Richland Hills,Home and lifestyle,2020,577
+North Richland Hills,Fashion accessories,2021,482
+North Richland Hills,Home and lifestyle,2021,451
+North Richland Hills,Fashion accessories,2020,413
+Odessa,Home and lifestyle,2021,1307
+Odessa,Home and lifestyle,2023,1135
+Odessa,Food and beverages,2019,874.76
+Odessa,Home and lifestyle,2020,804
+Odessa,Home and lifestyle,2022,764
+Odessa,Electronic accessories,2019,684.98
+Odessa,Fashion accessories,2019,684.98
+Odessa,Fashion accessories,2023,664
+Odessa,Fashion accessories,2021,574
+Odessa,Fashion accessories,2022,480
+Odessa,Fashion accessories,2020,473
+Odessa,Sports and travel,2019,225.60000000000002
+Pasadena,Sports and travel,2019,1699.3600000000001
+Pasadena,Fashion accessories,2021,1102
+Pasadena,Home and lifestyle,2023,1022
+Pasadena,Home and lifestyle,2021,862
+Pasadena,Fashion accessories,2020,826
+Pasadena,Fashion accessories,2022,744
+Pasadena,Home and lifestyle,2020,706
+Pasadena,Home and lifestyle,2022,626
+Pasadena,Fashion accessories,2023,500
+Pasadena,Fashion accessories,2019,326.56
+Pasadena,Electronic accessories,2019,310.88
+Pasadena,Home and lifestyle,2019,243
+Pasadena,Electronic accessories,2021,42
+Pearland,Home and lifestyle,2022,1081
+Pearland,Fashion accessories,2022,1018
+Pearland,Fashion accessories,2021,868
+Pearland,Fashion accessories,2019,594.5999999999999
+Pearland,Fashion accessories,2023,568
+Pearland,Sports and travel,2019,557.2
+Pearland,Home and lifestyle,2021,502
+Pearland,Food and beverages,2019,418.95
+Pearland,Home and lifestyle,2023,363
+Pearland,Fashion accessories,2020,262
+Pearland,Home and lifestyle,2020,174
+Pearland,Home and lifestyle,2019,86.72
+Pearland,Electronic accessories,2019,79.44
+Pflugerville,Health and beauty,2019,1557.42
+Pflugerville,Fashion accessories,2020,1374
+Pflugerville,Sports and travel,2019,1044.3600000000001
+Pflugerville,Home and lifestyle,2022,1044
+Pflugerville,Fashion accessories,2022,1016
+Pflugerville,Fashion accessories,2021,852
+Pflugerville,Fashion accessories,2019,791.46
+Pflugerville,Food and beverages,2019,774.48
+Pflugerville,Fashion accessories,2023,630
+Pflugerville,Home and lifestyle,2021,617
+Pflugerville,Home and lifestyle,2020,610
+Pflugerville,Electronic accessories,2019,600.41
+Pflugerville,Home and lifestyle,2023,493
+Pflugerville,Home and lifestyle,2019,231.12
+Pharr,Food and beverages,2019,1430.5
+Pharr,Fashion accessories,2020,960
+Pharr,Fashion accessories,2023,929
+Pharr,Sports and travel,2019,893.16
+Pharr,Fashion accessories,2021,767
+Pharr,Home and lifestyle,2020,754
+Pharr,Fashion accessories,2022,750
+Pharr,Health and beauty,2019,724.23
+Pharr,Home and lifestyle,2023,700
+Pharr,Electronic accessories,2019,674.4000000000001
+Pharr,Home and lifestyle,2021,561
+Pharr,Fashion accessories,2019,285.57
+Pharr,Home and lifestyle,2022,218
+Pharr,Home and lifestyle,2019,179.05
+Plano,Home and lifestyle,2021,3758
+Plano,Fashion accessories,2023,3309
+Plano,Home and lifestyle,2020,2660
+Plano,Fashion accessories,2021,2589
+Plano,Fashion accessories,2022,2379
+Plano,Home and lifestyle,2023,2255
+Plano,Home and lifestyle,2022,2251
+Plano,Fashion accessories,2020,2013
+Plano,Fashion accessories,2019,1049.0400000000002
+Plano,Food and beverages,2019,766.81
+Plano,Electronic accessories,2019,680.3100000000001
+Plano,Home and lifestyle,2019,585.4599999999999
+Plano,Electronic accessories,2023,369
+Plano,Sports and travel,2019,331.72
+Plano,Electronic accessories,2022,246
+Plano,Electronic accessories,2020,236
+Plano,Electronic accessories,2021,210
+Port Arthur,Fashion accessories,2020,3355
+Port Arthur,Home and lifestyle,2022,2967
+Port Arthur,Fashion accessories,2021,2952
+Port Arthur,Home and lifestyle,2021,2872
+Port Arthur,Home and lifestyle,2023,2748
+Port Arthur,Fashion accessories,2023,2616
+Port Arthur,Fashion accessories,2022,2212
+Port Arthur,Home and lifestyle,2020,2175
+Port Arthur,Fashion accessories,2019,859.2800000000001
+Port Arthur,Health and beauty,2019,580.77
+Port Arthur,Electronic accessories,2020,355
+Port Arthur,Home and lifestyle,2019,324.56
+Port Arthur,Electronic accessories,2021,273
+Port Arthur,Sports and travel,2019,145.76
+Port Arthur,Electronic accessories,2022,48
+Port Arthur,Electronic accessories,2023,41
+Richardson,Fashion accessories,2021,3490
+Richardson,Home and lifestyle,2021,2828
+Richardson,Fashion accessories,2022,2750
+Richardson,Home and lifestyle,2022,2698
+Richardson,Fashion accessories,2020,2457
+Richardson,Fashion accessories,2023,2226
+Richardson,Home and lifestyle,2020,2110
+Richardson,Home and lifestyle,2023,1738
+Richardson,Health and beauty,2019,1363.1
+Richardson,Food and beverages,2019,789.9200000000001
+Richardson,Fashion accessories,2019,702.4100000000001
+Richardson,Sports and travel,2019,429.54999999999995
+Richardson,Home and lifestyle,2019,424.62
+Richardson,Electronic accessories,2022,174
+Richardson,Electronic accessories,2023,166
+Richardson,Electronic accessories,2021,114
+Rockwall,Fashion accessories,2020,3209
+Rockwall,Home and lifestyle,2023,2871
+Rockwall,Home and lifestyle,2022,2622
+Rockwall,Fashion accessories,2021,2451
+Rockwall,Fashion accessories,2023,2207
+Rockwall,Home and lifestyle,2020,2048
+Rockwall,Fashion accessories,2022,1817
+Rockwall,Home and lifestyle,2021,1751
+Rockwall,Sports and travel,2019,1244.09
+Rockwall,Electronic accessories,2019,1011.6399999999999
+Rockwall,Food and beverages,2019,875.56
+Rockwall,Fashion accessories,2019,655.21
+Rockwall,Health and beauty,2019,595.1999999999999
+Rockwall,Electronic accessories,2023,336
+Rockwall,Electronic accessories,2021,208
+Rockwall,Electronic accessories,2020,176
+Rosenberg,Fashion accessories,2022,2175
+Rosenberg,Fashion accessories,2021,2084
+Rosenberg,Fashion accessories,2023,2026
+Rosenberg,Fashion accessories,2020,1957
+Rosenberg,Home and lifestyle,2021,1893
+Rosenberg,Home and lifestyle,2020,1780
+Rosenberg,Food and beverages,2019,1741.8999999999999
+Rosenberg,Home and lifestyle,2022,1650
+Rosenberg,Home and lifestyle,2023,1359
+Rosenberg,Electronic accessories,2019,705.99
+Rosenberg,Home and lifestyle,2019,549.78
+Rosenberg,Electronic accessories,2021,511
+Rosenberg,Sports and travel,2019,324.85
+Rosenberg,Electronic accessories,2020,273
+Rosenberg,Electronic accessories,2022,266
+Rosenberg,Health and beauty,2019,260.4
+Rosenberg,Electronic accessories,2023,42
+Round Rock,Home and lifestyle,2020,3053
+Round Rock,Home and lifestyle,2022,3010
+Round Rock,Home and lifestyle,2021,2753
+Round Rock,Fashion accessories,2021,2212
+Round Rock,Fashion accessories,2020,1906
+Round Rock,Fashion accessories,2023,1700
+Round Rock,Home and lifestyle,2023,1658
+Round Rock,Fashion accessories,2022,1607
+Round Rock,Home and lifestyle,2019,1524.46
+Round Rock,Electronic accessories,2022,783
+Round Rock,Health and beauty,2019,741.51
+Round Rock,Fashion accessories,2019,585.66
+Round Rock,Sports and travel,2019,519.0999999999999
+Round Rock,Electronic accessories,2019,490.83
+Round Rock,Electronic accessories,2023,392
+Round Rock,Electronic accessories,2021,204
+Round Rock,Food and beverages,2019,115.78
+Round Rock,Electronic accessories,2020,72
+Rowlett,Fashion accessories,2021,2381
+Rowlett,Home and lifestyle,2021,2158
+Rowlett,Home and lifestyle,2023,2080
+Rowlett,Home and lifestyle,2022,1878
+Rowlett,Fashion accessories,2022,1858
+Rowlett,Fashion accessories,2023,1586
+Rowlett,Home and lifestyle,2020,1524
+Rowlett,Fashion accessories,2020,1408
+Rowlett,Electronic accessories,2019,1195.54
+Rowlett,Food and beverages,2019,978.1600000000001
+Rowlett,Fashion accessories,2019,824.6699999999998
+Rowlett,Electronic accessories,2020,542
+Rowlett,Electronic accessories,2021,127
+Rowlett,Electronic accessories,2023,64
+San Angelo,Fashion accessories,2023,2450
+San Angelo,Home and lifestyle,2023,2395
+San Angelo,Fashion accessories,2021,2079
+San Angelo,Fashion accessories,2022,2042
+San Angelo,Home and lifestyle,2021,1977
+San Angelo,Fashion accessories,2020,1951
+San Angelo,Home and lifestyle,2022,1430
+San Angelo,Home and lifestyle,2020,1365
+San Angelo,Food and beverages,2019,980.22
+San Angelo,Electronic accessories,2022,514
+San Angelo,Electronic accessories,2023,417
+San Angelo,Home and lifestyle,2019,406.15999999999997
+San Angelo,Sports and travel,2019,258.36
+San Angelo,Health and beauty,2019,224.45999999999998
+San Angelo,Electronic accessories,2019,213.38
+San Angelo,Electronic accessories,2021,41
+San Antonio,Fashion accessories,2020,2562
+San Antonio,Home and lifestyle,2021,2368
+San Antonio,Electronic accessories,2019,2339.1
+San Antonio,Home and lifestyle,2023,2060
+San Antonio,Fashion accessories,2022,2054
+San Antonio,Home and lifestyle,2020,2048
+San Antonio,Fashion accessories,2023,1943
+San Antonio,Home and lifestyle,2022,1933
+San Antonio,Fashion accessories,2021,1810
+San Antonio,Home and lifestyle,2019,1722.29
+San Antonio,Health and beauty,2019,1187.53
+San Antonio,Food and beverages,2019,1025.18
+San Antonio,Electronic accessories,2023,738
+San Antonio,Sports and travel,2019,499.4599999999999
+San Antonio,Electronic accessories,2022,449
+San Antonio,Electronic accessories,2020,212
+San Marcos,Home and lifestyle,2021,2627
+San Marcos,Home and lifestyle,2020,2580
+San Marcos,Fashion accessories,2020,2220
+San Marcos,Fashion accessories,2022,2154
+San Marcos,Fashion accessories,2021,2098
+San Marcos,Fashion accessories,2023,2071
+San Marcos,Home and lifestyle,2023,1764
+San Marcos,Electronic accessories,2019,1258.2
+San Marcos,Sports and travel,2019,1135.22
+San Marcos,Home and lifestyle,2022,1052
+San Marcos,Health and beauty,2019,955.33
+San Marcos,Food and beverages,2019,761.61
+San Marcos,Electronic accessories,2023,576
+San Marcos,Electronic accessories,2020,379
+San Marcos,Electronic accessories,2021,212
+San Marcos,Electronic accessories,2022,185
+San Marcos,Fashion accessories,2019,96.15
+Schertz,Fashion accessories,2022,2899
+Schertz,Home and lifestyle,2022,2811
+Schertz,Fashion accessories,2021,2705
+Schertz,Home and lifestyle,2021,2619
+Schertz,Home and lifestyle,2020,2376
+Schertz,Home and lifestyle,2023,2255
+Schertz,Fashion accessories,2020,2168
+Schertz,Fashion accessories,2023,1714
+Schertz,Home and lifestyle,2019,1309.76
+Schertz,Health and beauty,2019,685.1700000000001
+Schertz,Sports and travel,2019,414.90000000000003
+Schertz,Electronic accessories,2022,357
+Schertz,Electronic accessories,2021,325
+Schertz,Fashion accessories,2019,219.6
+Schertz,Electronic accessories,2020,195
+Schertz,Electronic accessories,2023,42
+Seguin,Fashion accessories,2020,2692
+Seguin,Home and lifestyle,2022,2454
+Seguin,Home and lifestyle,2023,2379
+Seguin,Fashion accessories,2022,1835
+Seguin,Home and lifestyle,2021,1564
+Seguin,Fashion accessories,2021,1408
+Seguin,Home and lifestyle,2020,1241
+Seguin,Fashion accessories,2023,1059
+Seguin,Health and beauty,2019,801.5699999999999
+Seguin,Home and lifestyle,2019,559.68
+Seguin,Electronic accessories,2021,555
+Seguin,Fashion accessories,2019,449.82000000000005
+Seguin,Electronic accessories,2020,354
+Seguin,Electronic accessories,2023,339
+Seguin,Food and beverages,2019,177.36
+Seguin,Electronic accessories,2022,157
+Seguin,Sports and travel,2019,98.13
+Seguin,Electronic accessories,2019,47.07
+Sherman,Fashion accessories,2020,3166
+Sherman,Fashion accessories,2023,2400
+Sherman,Fashion accessories,2021,2214
+Sherman,Home and lifestyle,2022,1993
+Sherman,Home and lifestyle,2023,1925
+Sherman,Home and lifestyle,2021,1861
+Sherman,Home and lifestyle,2020,1723
+Sherman,Fashion accessories,2022,1156
+Sherman,Electronic accessories,2019,794.25
+Sherman,Electronic accessories,2020,696
+Sherman,Fashion accessories,2019,461.4100000000001
+Sherman,Electronic accessories,2022,335
+Sherman,Electronic accessories,2023,306
+Sherman,Health and beauty,2019,264.56
+Sherman,Electronic accessories,2021,90
+Southlake,Fashion accessories,2023,2729
+Southlake,Fashion accessories,2020,2530
+Southlake,Home and lifestyle,2021,2240
+Southlake,Home and lifestyle,2020,2190
+Southlake,Fashion accessories,2021,1902
+Southlake,Home and lifestyle,2023,1821
+Southlake,Fashion accessories,2022,1799
+Southlake,Home and lifestyle,2019,1427.1100000000001
+Southlake,Home and lifestyle,2022,1427
+Southlake,Food and beverages,2019,1025.08
+Southlake,Sports and travel,2019,972.51
+Southlake,Electronic accessories,2020,571
+Southlake,Electronic accessories,2019,339.36
+Southlake,Electronic accessories,2023,194
+Southlake,Electronic accessories,2022,100
+Sugar Land,Fashion accessories,2023,3335
+Sugar Land,Fashion accessories,2020,2481
+Sugar Land,Home and lifestyle,2023,2345
+Sugar Land,Home and lifestyle,2021,2245
+Sugar Land,Fashion accessories,2022,1968
+Sugar Land,Home and lifestyle,2020,1862
+Sugar Land,Home and lifestyle,2022,1680
+Sugar Land,Fashion accessories,2021,1525
+Sugar Land,Food and beverages,2019,901.42
+Sugar Land,Health and beauty,2019,476.85
+Sugar Land,Electronic accessories,2020,304
+Sugar Land,Electronic accessories,2023,220
+Sugar Land,Electronic accessories,2022,216
+Sugar Land,Home and lifestyle,2019,185.88
+Sugar Land,Fashion accessories,2019,164.28
+Sugar Land,Sports and travel,2019,123.85
+Sugar Land,Electronic accessories,2019,28.96
+Temple,Fashion accessories,2020,3175
+Temple,Fashion accessories,2022,2698
+Temple,Fashion accessories,2021,2477
+Temple,Home and lifestyle,2020,2354
+Temple,Home and lifestyle,2022,2088
+Temple,Fashion accessories,2023,1865
+Temple,Home and lifestyle,2023,1335
+Temple,Home and lifestyle,2021,1216
+Temple,Fashion accessories,2019,807.07
+Temple,Sports and travel,2019,602.75
+Temple,Home and lifestyle,2019,503.36
+Temple,Electronic accessories,2021,468
+Temple,Food and beverages,2019,345.66
+Temple,Electronic accessories,2023,328
+Temple,Electronic accessories,2022,288
+Temple,Electronic accessories,2019,252.14999999999998
+Temple,Electronic accessories,2020,201
+Texas City,Fashion accessories,2023,2846
+Texas City,Home and lifestyle,2022,2722
+Texas City,Fashion accessories,2022,2152
+Texas City,Home and lifestyle,2021,2069
+Texas City,Home and lifestyle,2020,2063
+Texas City,Fashion accessories,2020,1877
+Texas City,Home and lifestyle,2023,1700
+Texas City,Health and beauty,2019,1538.6399999999999
+Texas City,Fashion accessories,2021,1430
+Texas City,Sports and travel,2019,589.4300000000001
+Texas City,Food and beverages,2019,370.89
+Texas City,Electronic accessories,2020,194
+Texas City,Electronic accessories,2021,157
+Texas City,Electronic accessories,2023,135
+Texas City,Electronic accessories,2022,92
+Texas City,Home and lifestyle,2019,88.85
+Tyler,Home and lifestyle,2021,2818
+Tyler,Home and lifestyle,2022,2574
+Tyler,Fashion accessories,2021,2144
+Tyler,Home and lifestyle,2023,1823
+Tyler,Home and lifestyle,2020,1746
+Tyler,Fashion accessories,2023,1703
+Tyler,Fashion accessories,2020,1574
+Tyler,Fashion accessories,2019,1276.5800000000002
+Tyler,Fashion accessories,2022,1213
+Tyler,Electronic accessories,2021,558
+Tyler,Electronic accessories,2020,480
+Tyler,Electronic accessories,2023,307
+Tyler,Electronic accessories,2019,142.25
+Tyler,Electronic accessories,2022,73
+Victoria,Home and lifestyle,2023,2469
+Victoria,Home and lifestyle,2021,2258
+Victoria,Home and lifestyle,2020,2224
+Victoria,Fashion accessories,2023,1903
+Victoria,Fashion accessories,2020,1820
+Victoria,Fashion accessories,2022,1568
+Victoria,Home and lifestyle,2022,1375
+Victoria,Fashion accessories,2021,1017
+Victoria,Electronic accessories,2019,430.28999999999996
+Victoria,Electronic accessories,2022,375
+Victoria,Electronic accessories,2021,243
+Victoria,Electronic accessories,2020,164
+Victoria,Electronic accessories,2023,127
+Victoria,Home and lifestyle,2019,22.96
+Victoria,Fashion accessories,2019,12.78
+Waco,Home and lifestyle,2022,2267
+Waco,Fashion accessories,2020,1885
+Waco,Home and lifestyle,2020,1743
+Waco,Fashion accessories,2023,1628
+Waco,Home and lifestyle,2021,1559
+Waco,Home and lifestyle,2023,1343
+Waco,Fashion accessories,2021,1242
+Waco,Fashion accessories,2019,988.4
+Waco,Electronic accessories,2019,909.3199999999999
+Waco,Fashion accessories,2022,896
+Waco,Food and beverages,2019,887.9399999999999
+Waco,Sports and travel,2019,769.2
+Waco,Health and beauty,2019,699.64
+Waco,Electronic accessories,2020,318
+Waco,Electronic accessories,2021,214
+Waco,Home and lifestyle,2019,134.67
+Waco,Electronic accessories,2022,99
+Waco,Electronic accessories,2023,57
+Waxahachie,Home and lifestyle,2020,4753
+Waxahachie,Fashion accessories,2023,4435
+Waxahachie,Home and lifestyle,2023,3994
+Waxahachie,Fashion accessories,2022,3898
+Waxahachie,Fashion accessories,2021,3897
+Waxahachie,Home and lifestyle,2021,3816
+Waxahachie,Home and lifestyle,2022,3726
+Waxahachie,Fashion accessories,2020,3630
+Waxahachie,Electronic accessories,2019,1927.9
+Waxahachie,Home and lifestyle,2019,1889.76
+Waxahachie,Health and beauty,2019,1593.07
+Waxahachie,Electronic accessories,2021,748
+Waxahachie,Electronic accessories,2020,601
+Waxahachie,Sports and travel,2019,543.94
+Waxahachie,Electronic accessories,2022,454
+Waxahachie,Electronic accessories,2023,436
+Waxahachie,Fashion accessories,2019,244.85999999999999
+Waxahachie,Food and beverages,2019,115.80000000000001
+Weatherford,Home and lifestyle,2021,2392
+Weatherford,Home and lifestyle,2022,2331
+Weatherford,Fashion accessories,2022,2283
+Weatherford,Home and lifestyle,2023,1994
+Weatherford,Fashion accessories,2023,1696
+Weatherford,Home and lifestyle,2020,1599
+Weatherford,Fashion accessories,2020,1545
+Weatherford,Fashion accessories,2021,1431
+Weatherford,Fashion accessories,2019,885.3
+Weatherford,Sports and travel,2019,745
+Weatherford,Electronic accessories,2019,448.26
+Weatherford,Home and lifestyle,2019,441.03999999999996
+Weatherford,Electronic accessories,2020,139
+Weatherford,Electronic accessories,2021,75
+Weatherford,Electronic accessories,2022,48
+Weatherford,Electronic accessories,2023,22
+Weslaco,Home and lifestyle,2021,6730
+Weslaco,Home and lifestyle,2023,4632
+Weslaco,Fashion accessories,2022,4539
+Weslaco,Fashion accessories,2023,4423
+Weslaco,Home and lifestyle,2020,4069
+Weslaco,Fashion accessories,2020,3956
+Weslaco,Fashion accessories,2021,3613
+Weslaco,Home and lifestyle,2022,3515
+Weslaco,Home and lifestyle,2019,2527.8900000000003
+Weslaco,Fashion accessories,2019,2087.3900000000003
+Weslaco,Electronic accessories,2019,1807.0499999999997
+Weslaco,Food and beverages,2019,1268.7300000000002
+Weslaco,Electronic accessories,2023,1044
+Weslaco,Sports and travel,2019,974.91
+Weslaco,Electronic accessories,2022,502
+Weslaco,Electronic accessories,2020,337
+Weslaco,Electronic accessories,2021,205
+Weslaco,Health and beauty,2019,120.82
