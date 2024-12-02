@@ -5,12 +5,12 @@
 This project focuses on using advanced data analytics to optimize Walmart's operations and improve customer experience. The analysis includes identifying high-performing cities and branches, analyzing product category trends, examining payment preferences, and developing predictive and recommendation models. Additionally, an ETL pipeline was built to automate data extraction, transformation, and loading (ETL) into PostgreSQL for efficient data management and insights extraction.
 
 # Objective
-    •	High-Performing Cities & Branches: Identified cities and branches that drive the most revenue and customer satisfaction.
-    •	Product Category Trends: Analyzed product categories by sales, profit margins, and customer ratings.
-    •	Customer Payment Preferences: Investigated correlations between payment methods and satisfaction levels (ratings).
-    •	Seasonal Sales Trends: Analyzed sales trends over time to provide actionable inventory insights.
-    •	Predictive Model: Developed a model for forecasting sales trends.
-    •	Recommendation Model: Built a recommendation system for cross-selling and enhancing customer satisfaction.
+    1.High-Performing Cities & Branches: Identified cities and branches that drive the most revenue and customer satisfaction.
+    2.Product Category Trends: Analyzed product categories by sales, profit margins, and customer ratings.
+    3.Customer Payment Preferences: Investigated correlations between payment methods and satisfaction levels (ratings).
+    4.Seasonal Sales Trends: Analyzed sales trends over time to provide actionable inventory insights.
+    5.Predictive Model: Developed a model for forecasting sales trends.
+    6. Recommendation Model: Built a recommendation system for cross-selling and enhancing customer satisfaction.
 
   # Workflow Breakdown
 # 1. Data Cleaning
