@@ -51,9 +51,9 @@ An ETL pipeline was built to automate the process of extracting data from the so
     •	Payment Method Preferences: Analyzed customer behavior based on payment method preferences and its correlation with ratings.
 
 # Recommendations:
-    •	Dynamic Pricing: Implement dynamic pricing strategies for high-demand categories based on the insights from predictive analytics.
-    •	Inventory Optimization: Optimize inventory management by forecasting demand based on seasonal trends and sales patterns.
-    •	Payment Method Incentives: Introduce promotions for underused payment methods (e.g., mobile payments, Ewallet).
+    1. Dynamic Pricing: Implement dynamic pricing strategies for high-demand categories based on the insights from predictive analytics.
+    2. Inventory Optimization: Optimize inventory management by forecasting demand based on seasonal trends and sales patterns.
+    3. Payment Method Incentives: Introduce promotions for underused payment methods (e.g., mobile payments, Ewallet).
 
 # 5. Machine Learning Models  
 1. Sales Forecasting: 
